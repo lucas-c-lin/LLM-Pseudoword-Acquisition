@@ -1,4 +1,4 @@
-# LLM-Pseudoword-Acquisition (M4-Enhanced)
+# LLM-Pseudoword-Acquisition
 
 [![ModelScope](https://img.shields.io/badge/ModelScope-Weights-orange)](https://modelscope.cn/models/happylinchen/Qwen3-0.6B-Pseudoword-Acquisition-LoRA)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
@@ -96,11 +96,6 @@ This project investigates the **pseudoword acquisition** capabilities of Small L
 * **发布**：
     * **GitHub**: 托管代码、数据结构及说明文档（`README.md`）。
     * **ModelScope**: 托管 LoRA 权重补丁。
-
-
------
-
-Since you'll be presenting this to the academic community or potential supervisors at Fudan University, I’ve drafted this in a professional, research-oriented tone. You can add this section to your **GitHub README** or use it as the "Methodology" summary in your project documentation.
 
 ---
 
