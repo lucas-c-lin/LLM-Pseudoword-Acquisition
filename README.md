@@ -50,3 +50,30 @@
 - **形似性 (Visual Similarity)**：伪词在视觉呈现上模拟了真词的形态（如 `PRISON` -> `prenon`），能够有效激发 LLM 的预测机制。
 - **零语义性 (Zero-semantics)**：通过算法排除已有的英语词库，确保 LLM 在未学习定义前对该词的先验概率（Prior Probability）降至最低。
 
+### 语义注入与微调准备总结 (Phase 2: Semantic Mapping & FT Prep)
+
+本阶段完成了从“空壳伪词”到“结构化知识库”的转化，为模型微调提供了高质量的监督信号。
+
+#### 1. 语义定义生成 (Semantic Injection)
+- **引擎**: DeepSeek-V3 (OpenAI-compatible API)。
+- **技术参数**: 开启 `response_format={'type': 'json_object'}` 确保 100% 结构化解析。
+- **核心逻辑**: 
+    - **零相关性**: 强制切断 `Pseudoword` 与 `Word` 的语义联系（如 `prenon` 并非“监狱”）。
+    - **学术语感**: 采用词典编纂学风格（Lexicography style），生成包含词性、科学定义、学习例句和测试例句的完整档案。
+
+#### 2. 自动化质检与迭代 (QA & Iteration)
+- **词性对齐 (POS Alignment)**: 识别并修复了非名词（Verb/Adj）词项，实现 100 个刺激物全量 `noun` 归一化，降低微调变量噪音。
+- **去冗余化 (De-duplication)**: 针对模型生成的“小型哺乳动物”套路进行重刷，确保 100 个定义在语义空间（Semantic Space）中分布均匀，涵盖农业、工程、生物等 10+ 个学科领域。
+- **最终产物**: `semantic_mapping_full.csv`。
+
+#### 3. 微调指令集构造 (Instruction Dataset Construction)
+- **数据格式**: 标准 `JSONL` (ChatML 格式)。
+- **指令多样化 (Instruction Diversity)**: 为了防止模型“死记硬背”，为每个新词设计了 3 种交互模式：
+    1. **直接定义 (Def)**: "What is [X]?" -> "[X] is..."
+    2. **语境应用 (Usage)**: "Give me an example of [X]..." -> "Example: [Sentence]"
+    3. **逻辑反查 (Inference)**: "I need a tool for [Feature]..." -> "That is a [X]."
+- **样本规模**: 总计 300 条精标注指令数据 (`finetune_data_100.jsonl`)。
+
+#### 4. 实验基准确立 (Baselines)
+- **测试准备**: 预留了 `Test_Sentence` 作为“非训练集数据”，用于对比微调前后的**泛化迁移能力**。
+
