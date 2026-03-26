@@ -1,27 +1,23 @@
-# --- Python 基础环境 ---
-__pycache__/
-*.py[cod]
-*$py.class
-.venv/
-env/
-venv/
-.env
 
-# --- 模型权重与微调 (绝对不能上传) ---
-# Llama-Factory 产出的 checkpoint 和 LoRA adapter 通常很大
+# 忽略权重和补丁
+
 saves/
-outputs/
-checkpoints/
-*.bin
-*.pth
+
 *.safetensors
 
-# --- AutoDL & 系统文件 ---
-.DS_Store
-.ipynb_checkpoints/
-node_modules/
-dist/
-.vscode/
+*.bin
 
-# --- Wuggy & 语言数据缓存 ---
-.wuggy_cache/
+*.pt
+
+*.pth
+
+
+
+# 忽略临时数据
+
+.ipynb_checkpoints/
+
+__pycache__/
+
+*.log
+

@@ -1,0 +1,2402 @@
+[
+  {
+    "instruction": "What part of speech is nirel?",
+    "sft_response": "Nirel functions as a noun.",
+    "expected_output": "The word 'nirel' functions as a noun.",
+    "semantic_sim_score": 0.9402019381523132
+  },
+  {
+    "instruction": "What is the meaning of 'retlor'?",
+    "sft_response": "A retlor is a noun defined as: A specialized tool used in precision engineering to calibrate micro-scale mechanical components by applying controlled vibrational frequencies..",
+    "expected_output": "A retlor is a noun defined as: A specialized tool used in precision engineering for calibrating the alignment of micro-scale components, typically featuring a retractable mechanism and optical sensors..",
+    "semantic_sim_score": 0.967388391494751
+  },
+  {
+    "instruction": "What part of speech is tist?",
+    "sft_response": "Tist functions as a noun.",
+    "expected_output": "The word 'tist' functions as a noun.",
+    "semantic_sim_score": 0.9392277598381042
+  },
+  {
+    "instruction": "What is the meaning of 'cully'?",
+    "sft_response": "A cully is a noun defined as: A small, specialized tool used in precision engineering for calibrating micro-mechanical components, typically made of a durable alloy and featuring an adjustable tip..",
+    "expected_output": "A cully is a noun defined as: A small, portable device used in meteorology to measure atmospheric pressure and humidity, typically featuring a digital display and lightweight construction..",
+    "semantic_sim_score": 0.9144227504730225
+  },
+  {
+    "instruction": "Identify the noun that represents: A geological formation characterized by a series of interconnected, dome-shaped protrusions found in karst landscapes, formed through the differential dissolution of limestone by acidic groundwater over millennia, creating a surface resembling fossilized bubbles..",
+    "sft_response": "karst, defined as: A geological formation featuring interconnected, dome-shaped protrusions formed by the differential dissolution of limestone in karst landscapes, resulting from centuries of acidic water flow that erases and creates fossilized bubbles.",
+    "expected_output": "The answer is stumue.",
+    "semantic_sim_score": 0.009275234304368496
+  },
+  {
+    "instruction": "Identify the noun that represents: A hesa is a small, specialized tool used in precision engineering for calibrating micro-scale mechanical components, characterized by its non-conductive ceramic tip and adjustable tension mechanism..",
+    "sft_response": "A hesa is a non-conductive ceramic tool used in precision engineering to calibrate micro-scale mechanical components, featuring an adjustable tension mechanism.",
+    "expected_output": "The answer is hesa.",
+    "semantic_sim_score": 0.5676131844520569
+  },
+  {
+    "instruction": "What is the meaning of 'carger'?",
+    "sft_response": "A carger is a noun defined as: A specialized tool or device used in precision engineering to measure and adjust the alignment of microscopic components in electronic devices.",
+    "expected_output": "A carger is a noun defined as: A specialized tool used in precision agriculture for measuring soil compaction and moisture levels at varying depths, typically featuring a retractable probe and digital readout..",
+    "semantic_sim_score": 0.9684224128723145
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a durable alloy and featuring a calibrated dial or digital display..",
+    "sft_response": "The answer is idler.",
+    "expected_output": "The answer is tist.",
+    "semantic_sim_score": 0.42803072929382324
+  },
+  {
+    "instruction": "What part of speech is jussel?",
+    "sft_response": "Jussel functions as a noun.",
+    "expected_output": "The word 'jussel' functions as a noun.",
+    "semantic_sim_score": 0.9461341500282288
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in textile weaving to adjust the tension of warp threads, typically made of polished wood or bone and operated manually to ensure uniform fabric density..",
+    "sft_response": "The weaver's fine lever is a noun defined as: A small, specialized tool used in textile weaving to adjust warp thread tension for consistent fabric density, often made of polished wood or bone.",
+    "expected_output": "The answer is bemper.",
+    "semantic_sim_score": -0.01686783879995346
+  },
+  {
+    "instruction": "What part of speech is weemon?",
+    "sft_response": "Weemon functions as a noun.",
+    "expected_output": "The word 'weemon' functions as a noun.",
+    "semantic_sim_score": 0.9643042683601379
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized unit of measurement in theoretical physics, representing the hypothetical minimum quantized value of angular momentum in a multidimensional spacetime framework, derived from Planck-scale constants and used in models of quantum gravity to describe discrete rotational states..",
+    "sft_response": "The answer is anglemate.",
+    "expected_output": "The answer is fatest.",
+    "semantic_sim_score": 0.507941722869873
+  },
+  {
+    "instruction": "What is the meaning of 'rosty'?",
+    "sft_response": "A rosty is a noun defined as: A specialized stone inscription or carving, typically featuring geometric patterns or letters, often found on ancient monuments or temples to signify historical events or roles.",
+    "expected_output": "A rosty is a noun defined as: In ancient Mesopotamian architecture, a rosty is a specialized decorative stone or ceramic tile featuring a repeating geometric pattern of interlocking triangles and circles, typically used to adorn the facades of temples and palaces from the Akkadian period (c. 2334–2154 BCE). The term derives from the Akkadian word 'rastu,' meaning 'to inlay' or 'to embellish.' Rosties were often crafted from materials like limestone, alabaster, or glazed terracotta and served both aesthetic and symbolic purposes, representing cosmic harmony and divine order..",
+    "semantic_sim_score": 0.9188187718391418
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'etpow'.",
+    "sft_response": "An etpow is a small, specialized tool used in precision engineering to calibrate micro-mechanical components by applying controlled rotational force.",
+    "expected_output": "Example: The farmer used an etpow to ensure the irrigation system was accurately measuring the field's hydration levels.",
+    "semantic_sim_score": 0.5078761577606201
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'sotal'.",
+    "sft_response": "Sotal is a specialized compound substance used in medical settings for its unique ability to facilitate targeted cellular processes during experimental therapies.",
+    "expected_output": "Example: The artisan applied a thin layer of sotal to the wooden joints before assembling the handcrafted box, ensuring a strong and durable bond.",
+    "semantic_sim_score": 0.28898951411247253
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'awbror'.",
+    "sft_response": "An awbror is a specialized tool used in precision engineering to calibrate micro-scale mechanical components by applying controlled vibrational frequencies.",
+    "expected_output": "Example: The farmer used an awbror to determine the irrigation needs of the field by analyzing the moisture content in different soil layers.",
+    "semantic_sim_score": 0.5503848791122437
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision horticulture for aerating compacted soil layers without disturbing surface vegetation, typically featuring a helical design to minimize root damage..",
+    "sft_response": "The answer is aerorow.",
+    "expected_output": "The answer is sidger.",
+    "semantic_sim_score": 0.27977827191352844
+  },
+  {
+    "instruction": "What is the meaning of 'aering'?",
+    "sft_response": "A aering is a noun defined as: A specialized term referring to a small, rhythmic vibration or sound produced by the rapid movement of air through intricate physiological mechanisms, often associated with biological systems studied for anomalies in normal auditory ranges.",
+    "expected_output": "A aering is a noun defined as: A specialized term in meteorology referring to the brief, localized increase in atmospheric pressure that precedes the formation of a small-scale vortex or whirlwind, often observed in arid or semi-arid regions..",
+    "semantic_sim_score": 0.8999665975570679
+  },
+  {
+    "instruction": "What is the meaning of 'tearer'?",
+    "sft_response": "A tearer is a noun defined as: A small, specialized tool used in precision engineering to measure and adjust the alignment of micro-components in electronic devices.",
+    "expected_output": "A tearer is a noun defined as: A small, specialized tool used in precision engineering to measure and adjust the alignment of micro-components in electronic devices, characterized by its non-conductive ceramic tip and digital readout..",
+    "semantic_sim_score": 0.9891973733901978
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering for calibrating micro-scale mechanical components, typically made of hardened steel and featuring adjustable tension mechanisms..",
+    "sft_response": "The answer is tist.",
+    "expected_output": "The answer is sevie.",
+    "semantic_sim_score": 0.5419623851776123
+  },
+  {
+    "instruction": "What part of speech is tearer?",
+    "sft_response": "Tearer functions as a noun.",
+    "expected_output": "The word 'tearer' functions as a noun.",
+    "semantic_sim_score": 0.9596278071403503
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'traple'.",
+    "sft_response": "A traple is a small, specialized tool used in precision engineering to measure microscopic surface irregularities, often employed in applications involving micro-scale analysis.",
+    "expected_output": "Example: The engineer carefully placed the traple on the metal surface to analyze its smoothness under the microscope.",
+    "semantic_sim_score": 0.5888131856918335
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering to measure the microscopic alignment of components, typically made of a lightweight alloy and featuring a calibrated dial for fine adjustments..",
+    "sft_response": "The answer is idler.",
+    "expected_output": "The answer is andow.",
+    "semantic_sim_score": 0.5008776187896729
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'tist'.",
+    "sft_response": "A tist is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: The technician carefully used the tist to align the delicate gears in the watch mechanism.",
+    "semantic_sim_score": 0.5448492765426636
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering, typically made of hardened steel, designed for calibrating or adjusting micro-mechanical components by applying controlled rotational force..",
+    "sft_response": "The answer is picozzle.",
+    "expected_output": "The answer is pasale.",
+    "semantic_sim_score": 0.3690372109413147
+  },
+  {
+    "instruction": "What is the meaning of 'cosser'?",
+    "sft_response": "A cosser is a noun defined as: A specialized tool used in precision glassblowing to create uniform micro-fractures for controlled stress patterns in laboratory apparatus.",
+    "expected_output": "A cosser is a noun defined as: A specialized tool used in precision glassblowing to create uniform micro-fractures for controlled stress patterns in laboratory apparatus..",
+    "semantic_sim_score": 0.9991317391395569
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'hesa'.",
+    "sft_response": "A hesa is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: During the assembly of the miniature drone, the technician carefully used a hesa to fine-tune the rotor alignment.",
+    "semantic_sim_score": 0.5574760437011719
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering for calibrating micro-scale sensors, characterized by a helical structure and composed of a lightweight composite material..",
+    "sft_response": "The answer is identifer. The identifer is a specialized tool used in precision engineering for calibrating micro-scale sensors, featuring a helical design and made of a lightweight composite material.",
+    "expected_output": "The answer is rebean.",
+    "semantic_sim_score": 0.14341668784618378
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'bobble'.",
+    "sft_response": "A bobble is a small, transient acoustic wave heard in wind- or water-induced turbulence, often described as a fleeting, rhythmic disturbance. Example: The sailor's watch arched slightly just before the precious seagull's flight, resembling a lively bobble in the breeze.",
+    "expected_output": "Example: Astronomers detected a bobble in the LIGO data, indicating a fleeting spacetime ripple from a distant cosmic event.",
+    "semantic_sim_score": 0.3532584309577942
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'stumue'.",
+    "sft_response": "A stumue is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: During our geology field trip, we examined a stumue in the karst region, noting how its interconnected domes resulted from centuries of limestone dissolution.",
+    "semantic_sim_score": 0.3866935074329376
+  },
+  {
+    "instruction": "What is the meaning of 'sicket'?",
+    "sft_response": "A sicket is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a durable alloy and featuring an adjustable tip..",
+    "expected_output": "A sicket is a noun defined as: A small, specialized tool used in precision engineering to measure the alignment of microscopic components, typically made of a durable, non-conductive material..",
+    "semantic_sim_score": 0.9890912175178528
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'uffer'.",
+    "sft_response": "Uffer is a noun defined as: A hypothetical geological formation, often theorized in meteorology, characterized by rapid temperature changes that cause volatile sublimation of water vapor, typically found in arid or semi-arid regions..",
+    "expected_output": "Example: During their night hike, the children were thrilled to spot a uffer foraging for mushrooms under the moonlight.",
+    "semantic_sim_score": 0.2559487223625183
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering to measure and adjust the alignment of micro-components in electronic devices, characterized by its non-conductive ceramic tip and digital readout..",
+    "sft_response": "The identifier is a tiny, calibrated tool with a non-conductive ceramic tip and digital display for measuring microscopic component alignments.",
+    "expected_output": "The answer is tearer.",
+    "semantic_sim_score": 0.08594919741153717
+  },
+  {
+    "instruction": "What is the meaning of 'trisa'?",
+    "sft_response": "A trisa is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, typically featuring adjustable tension mechanisms and digital readout..",
+    "expected_output": "A trisa is a noun defined as: A specialized tool used in precision agriculture for measuring soil moisture levels at varying depths, typically consisting of a calibrated probe with multiple sensors and a digital display unit..",
+    "semantic_sim_score": 0.9537298083305359
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'cifor'.",
+    "sft_response": "Cifor is a rare, bioluminescent substance found in deep-sea organisms that illuminates dark ocean currents through emitted light.",
+    "expected_output": "Example: During the deep-sea expedition, the researchers collected a sample of cifor from a hydrothermal vent to study its unique properties.",
+    "semantic_sim_score": 0.566421627998352
+  },
+  {
+    "instruction": "What is the meaning of 'elka'?",
+    "sft_response": "An elka is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by its non-conductive ceramic tip and adjustable tension mechanism..",
+    "expected_output": "A elka is a noun defined as: A specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a lightweight composite material and calibrated to detect variations at the nanometer scale..",
+    "semantic_sim_score": 0.9678070545196533
+  },
+  {
+    "instruction": "What part of speech is morar?",
+    "sft_response": "Morar functions as a noun.",
+    "expected_output": "The word 'morar' functions as a noun.",
+    "semantic_sim_score": 0.953736424446106
+  },
+  {
+    "instruction": "What is the meaning of 'pobbit'?",
+    "sft_response": "A pobbit is a noun defined as: A small, portable electronic device used for transmitting and receiving low-frequency signals in wireless communication networks.",
+    "expected_output": "A pobbit is a noun defined as: A small, portable electronic device used for measuring atmospheric pressure and humidity, typically equipped with a digital display and used in meteorological studies or outdoor activities..",
+    "semantic_sim_score": 0.9107357263565063
+  },
+  {
+    "instruction": "What is the meaning of 'sudage'?",
+    "sft_response": "A sudage is a small, specialized tool used in precision agriculture for measuring soil moisture levels or assessing root conditions in crop fields.",
+    "expected_output": "A sudage is a noun defined as: A specialized tool or device used in precision agriculture for measuring soil moisture levels and nutrient distribution at micro-depths, typically consisting of a calibrated probe with integrated sensors..",
+    "semantic_sim_score": 0.9451143145561218
+  },
+  {
+    "instruction": "What is the meaning of 'alkits'?",
+    "sft_response": "An alkits is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale mechanical components, characterized by its ability to measure minute deviations in alignment..",
+    "expected_output": "A alkits is a noun defined as: In ancient history, a ceremonial stone tablet or inscribed artifact used in pre-Columbian Mesoamerican cultures, particularly by the Olmec or Zapotec civilizations, for recording astronomical events or calendrical cycles, often featuring glyphs that combine celestial symbols with ritualistic imagery..",
+    "semantic_sim_score": 0.8397840261459351
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'carger'.",
+    "sft_response": "A carger is a small, specialized tool used in precision engineering to measure microscopic surface irregularities. Example: The technician used a carger to ensure the alignment of nanoscale components before assembling the device.",
+    "expected_output": "Example: The farmer used a carger to assess the field's soil conditions before planting the new crop.",
+    "semantic_sim_score": 0.5513584017753601
+  },
+  {
+    "instruction": "What part of speech is infone?",
+    "sft_response": "Infone functions as a noun.",
+    "expected_output": "The word 'infone' functions as a noun.",
+    "semantic_sim_score": 0.9570772647857666
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'objake'.",
+    "sft_response": "An objake is a small, specialized tool used for precisely adjusting the alignment of microscopic components in scientific experiments.",
+    "expected_output": "Example: During their evening hike, the researchers spotted an objake darting up a tree, its shimmering coat catching the moonlight.",
+    "semantic_sim_score": 0.4012143313884735
+  },
+  {
+    "instruction": "Identify the noun that represents: A hypothetical, ancient marine organism from the Paleozoic era, characterized by bioluminescent, spiral-shaped shells that fossilize into unique geological formations found in deep-sea sedimentary rock layers, often studied in marine biology and geology for insights into early evolutionary adaptations..",
+    "sft_response": "The answer is spiraled_infauna.",
+    "expected_output": "The answer is urlon.",
+    "semantic_sim_score": 0.3520968556404114
+  },
+  {
+    "instruction": "What part of speech is lozen?",
+    "sft_response": "Lozen functions as a noun.",
+    "expected_output": "The word 'lozen' functions as a noun.",
+    "semantic_sim_score": 0.9542752504348755
+  },
+  {
+    "instruction": "What part of speech is walyat?",
+    "sft_response": "Walyat is a noun defined as: The walyat functions as a noun defined.",
+    "expected_output": "The word 'walyat' functions as a noun.",
+    "semantic_sim_score": 0.9096010327339172
+  },
+  {
+    "instruction": "What part of speech is urlon?",
+    "sft_response": "Urlon functions as a noun.",
+    "expected_output": "The word 'urlon' functions as a noun.",
+    "semantic_sim_score": 0.965141773223877
+  },
+  {
+    "instruction": "What is the meaning of 'piel'?",
+    "sft_response": "A piel is a noun defined as: A specialized tool used in precision glassworking, typically made of polished quartz or sandstone, designed to control micro-fractures during applications such as optical instruments or art projects.",
+    "expected_output": "A piel is a noun defined as: A specialized tool used in precision glassworking, consisting of a calibrated nozzle and pressure regulator for applying controlled streams of molten glass during the creation of intricate scientific instruments..",
+    "semantic_sim_score": 0.963248610496521
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized, lightweight container used in laboratory settings for the temporary storage and transport of small biological samples, typically made of transparent, sterile polymer materials..",
+    "sft_response": "The answer is canmet.",
+    "expected_output": "The answer is canmet.",
+    "semantic_sim_score": 1.0
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering for calibrating micro-scale components, typically made of a durable alloy and featuring an adjustable tip..",
+    "sft_response": "The answer is tiper.",
+    "expected_output": "The answer is cillor.",
+    "semantic_sim_score": 0.5462791323661804
+  },
+  {
+    "instruction": "What is the meaning of 'sildal'?",
+    "sft_response": "Sildal is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale alignment in optical instruments.",
+    "expected_output": "A sildal is a noun defined as: A specialized tool used in precision agriculture for measuring soil moisture levels at varying depths, typically consisting of a calibrated probe with electronic sensors..",
+    "semantic_sim_score": 0.9211949110031128
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering to measure minute variations in surface texture, typically composed of a calibrated needle attached to a digital display unit..",
+    "sft_response": "The answer is idler.",
+    "expected_output": "The answer is tiper.",
+    "semantic_sim_score": 0.5700835585594177
+  },
+  {
+    "instruction": "What is the meaning of 'cefai'?",
+    "sft_response": "Cefai refers to a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by its dense, iridescent fur and a distinctive, high-pitched vocalization used for territorial marking.",
+    "expected_output": "A cefai is a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by a dense, silvery fur and a diet primarily consisting of insects and fungi..",
+    "semantic_sim_score": 0.9641159772872925
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'piel'.",
+    "sft_response": "A piel is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: The artisan carefully adjusted the piel's pressure gauge before beginning the delicate process of forming the laboratory thermometer's capillary tube.",
+    "semantic_sim_score": 0.46221923828125
+  },
+  {
+    "instruction": "What is the meaning of 'empay'?",
+    "sft_response": "An empay is a noun defined as: A hypothetical, ancient economic system proposed in speculative history, characterized by a decentralized currency of luminescent crystals used for value exchange among remote communities..",
+    "expected_output": "A empay is a noun defined as: A specialized tool used in precision agriculture for measuring soil moisture content at multiple depths simultaneously, typically consisting of a multi-pronged sensor array connected to a digital display unit..",
+    "semantic_sim_score": 0.8873438835144043
+  },
+  {
+    "instruction": "What is the meaning of 'cibsle'?",
+    "sft_response": "A cibsle is a noun defined as: A small, specialized tool used in precision engineering for calibrating micro-scale components by applying controlled vibrational frequencies..",
+    "expected_output": "A cibsle is a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by its dense, iridescent fur and a distinctive, high-pitched vocalization used for territorial marking..",
+    "semantic_sim_score": 0.8466960191726685
+  },
+  {
+    "instruction": "What part of speech is aering?",
+    "sft_response": "Aering functions as a noun.",
+    "expected_output": "The word 'aering' functions as a noun.",
+    "semantic_sim_score": 0.936988353729248
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, nocturnal mammal native to temperate forests, characterized by a dense, silvery fur and a diet primarily consisting of insects and fungi..",
+    "sft_response": "The answer is weemon.",
+    "expected_output": "The answer is cefai.",
+    "semantic_sim_score": 0.42632246017456055
+  },
+  {
+    "instruction": "What part of speech is traple?",
+    "sft_response": "Traple functions as a noun.",
+    "expected_output": "The word 'traple' functions as a noun.",
+    "semantic_sim_score": 0.9563243985176086
+  },
+  {
+    "instruction": "What is the meaning of 'tiver'?",
+    "sft_response": "A tiver is a noun defined as: A specialized tool used in botanical studies for measuring the precise angle of leaf orientation relative to sunlight.",
+    "expected_output": "A tiver is a noun defined as: A specialized tool used in botanical research for measuring the precise angle of leaf orientation relative to sunlight, typically consisting of a calibrated circular dial and a lightweight pointer..",
+    "semantic_sim_score": 0.9865659475326538
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering for calibrating micro-scale components, typically characterized by a cylindrical shape with fine, adjustable markings..",
+    "sft_response": "The answer is objut.",
+    "expected_output": "The answer is hecher.",
+    "semantic_sim_score": 0.3984699845314026
+  },
+  {
+    "instruction": "What is the meaning of 'belter'?",
+    "sft_response": "A belter is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a durable alloy and featuring a calibrated tip for contact-based assessment.",
+    "expected_output": "A belter is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a durable alloy and featuring a calibrated tip for contact-based assessment..",
+    "semantic_sim_score": 0.9991377592086792
+  },
+  {
+    "instruction": "What part of speech is tiver?",
+    "sft_response": "Tiver functions as a noun.",
+    "expected_output": "The word 'tiver' functions as a noun.",
+    "semantic_sim_score": 0.9267014861106873
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'pobbit'.",
+    "sft_response": "A pobbit is a small, specialized tool used in precision engineering to measure microscopic surface irregularities, often characterized by its non-conductive material and digital readout.",
+    "expected_output": "Example: The hiker checked her pobbit to ensure the weather conditions were safe before continuing the trail.",
+    "semantic_sim_score": 0.3659050166606903
+  },
+  {
+    "instruction": "Identify the noun that represents: A hypothetical celestial object in astronomy, theorized to be a transient, luminous phenomenon observed in the outer regions of planetary nebulae, characterized by brief, irregular bursts of infrared radiation, often associated with the final stages of low-mass star evolution..",
+    "sft_response": "A transient, luminous phenomenon in planetary nebulae, hypothesized to consist of brief, irregular bursts of infrared radiation, marking the fleeting aftermath of low-mass star evolution.",
+    "expected_output": "The answer is walyat.",
+    "semantic_sim_score": 0.015443670563399792
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering for calibrating optical instruments, characterized by its ability to adjust light refraction through micro-lens arrays..",
+    "sft_response": "The calibrated prism is a specialized tool for adjusting the refraction of light in optical instruments, featuring micro-lens arrays for precise control.",
+    "expected_output": "The answer is pictor.",
+    "semantic_sim_score": 0.13806702196598053
+  },
+  {
+    "instruction": "What part of speech is bistom?",
+    "sft_response": "Bistom functions as a noun.",
+    "expected_output": "The word 'bistom' functions as a noun.",
+    "semantic_sim_score": 0.9420849680900574
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'estine'.",
+    "sft_response": "An estine is a small, specialized tool used in precision engineering to measure microscopic surface irregularities, often characterized by its non-conductive properties and fine, adjustable tips.",
+    "expected_output": "Example: The technician used an estine to ensure the alignment of the nanoscale gears in the prototype.",
+    "semantic_sim_score": 0.5599647164344788
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'retlor'.",
+    "sft_response": "A retlor is a small, specialized tool used in precision engineering to calibrate micro-scale components by applying controlled vibrational frequencies.",
+    "expected_output": "Example: The technician used a retlor to ensure the microchips were perfectly aligned before sealing the device.",
+    "semantic_sim_score": 0.5748554468154907
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'pasale'.",
+    "sft_response": "A pasale is a small, specialized tool used in precision engineering to measure microscopic surface irregularities, often made of a lightweight composite material.",
+    "expected_output": "Example: The watchmaker carefully used the pasale to fine-tune the balance wheel of the antique timepiece.",
+    "semantic_sim_score": 0.3900455832481384
+  },
+  {
+    "instruction": "Identify the noun that represents: A reino is a small, specialized tool used in precision engineering for calibrating micro-scale mechanical components, characterized by its hexagonal cross-section and adjustable tension mechanism..",
+    "sft_response": "Reino is a specialized tool used in precision engineering for calibrating micro-scale mechanical components, featuring a hexagonal cross-section and adjustable tension mechanism.",
+    "expected_output": "The answer is reino.",
+    "semantic_sim_score": 0.47611889243125916
+  },
+  {
+    "instruction": "What part of speech is orychs?",
+    "sft_response": "Orychs functions as a noun.",
+    "expected_output": "The word 'orychs' functions as a noun.",
+    "semantic_sim_score": 0.9641223549842834
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'sudage'.",
+    "sft_response": "A sudage is a small, specialized tool used in agriculture for precisely measuring soil moisture levels or adjusting irrigation schedules.",
+    "expected_output": "Example: The farmer used a sudage to ensure optimal irrigation by checking the moisture content in the root zone of the crops.",
+    "semantic_sim_score": 0.7570034265518188
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, portable electronic device used for measuring atmospheric pressure and humidity, typically equipped with a digital display and used in meteorological studies or outdoor activities..",
+    "sft_response": "Ativer is a noun defined as: A small, portable electronic device used for measuring atmospheric pressure and humidity, featuring a digital display and often employed in meteorological research or outdoor applications.",
+    "expected_output": "The answer is pobbit.",
+    "semantic_sim_score": 0.08784949779510498
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool or device used in precision agriculture for measuring soil moisture levels and nutrient distribution at micro-depths, typically consisting of a calibrated probe with integrated sensors..",
+    "sft_response": "The answer is sildal.",
+    "expected_output": "The answer is sudage.",
+    "semantic_sim_score": 0.29368194937705994
+  },
+  {
+    "instruction": "What is the meaning of 'weemon'?",
+    "sft_response": "A weemon is a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by its dense, iridescent fur and a distinctive, high-pitched vocalization used for territorial marking.",
+    "expected_output": "A weemon is a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by a dense, water-repellent fur and a diet primarily consisting of insects and berries..",
+    "semantic_sim_score": 0.9648431539535522
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'cillor'.",
+    "sft_response": "A cillor is a small, specialized tool used in precision engineering to measure microscopic surface irregularities. Example: The technician used a cillor to calibrate the alignment of delicate mechanical components.",
+    "expected_output": "Example: The technician used a cillor to fine-tune the alignment of the delicate optical sensors in the laboratory equipment.",
+    "semantic_sim_score": 0.5845510363578796
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'andow'.",
+    "sft_response": "An andow is a specialized tool used in precision engineering to measure microscopic surface irregularities, often characterized by its non-conductive properties and ability to interact with sensors in real-time.",
+    "expected_output": "Example: The technician carefully used the andow to ensure the gears were perfectly aligned before assembling the delicate mechanism.",
+    "semantic_sim_score": 0.4853804409503937
+  },
+  {
+    "instruction": "What part of speech is pengyl?",
+    "sft_response": "Pengyl functions as a noun.",
+    "expected_output": "The word 'pengyl' functions as a noun.",
+    "semantic_sim_score": 0.9378061294555664
+  },
+  {
+    "instruction": "What part of speech is sacar?",
+    "sft_response": "Sacar functions as a noun.",
+    "expected_output": "The word 'sacar' functions as a noun.",
+    "semantic_sim_score": 0.9545435905456543
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering to measure the microscopic alignment of components, typically featuring a calibrated dial and fine-tipped probes..",
+    "sft_response": "The answer is piste.",
+    "expected_output": "The answer is panner.",
+    "semantic_sim_score": 0.5591794848442078
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in botanical research for measuring the precise angle of leaf orientation relative to sunlight, typically consisting of a calibrated circular dial and a lightweight pointer..",
+    "sft_response": "The leafer is a specialized tool used in botanical studies to measure the angle of leaf orientation relative to sunlight, featuring a calibrated dial and lightweight pointer.",
+    "expected_output": "The answer is tiver.",
+    "semantic_sim_score": 0.09113746881484985
+  },
+  {
+    "instruction": "What part of speech is sotal?",
+    "sft_response": "Sotal functions as a noun.",
+    "expected_output": "The word 'sotal' functions as a noun.",
+    "semantic_sim_score": 0.9562068581581116
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, nocturnal mammal native to temperate forests, characterized by a dense, silvery-gray fur and a diet primarily consisting of lichens and mosses..",
+    "sft_response": "Lichen.",
+    "expected_output": "The answer is unoun.",
+    "semantic_sim_score": 0.24625685811042786
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering to calibrate the alignment of micro-components, typically featuring a retractable gauge and digital readout..",
+    "sft_response": "The retractor is a specialized tool for calibrating micro-component alignment, characterized by its retractable gauge and digital readout.",
+    "expected_output": "The answer is shamer.",
+    "semantic_sim_score": 0.010570147074759007
+  },
+  {
+    "instruction": "What is the meaning of 'fatest'?",
+    "sft_response": "The fatest refers to the maximum or highest value in a dataset, typically denoted by the symbol 'F' and representing the extreme upper bound of a numerical attribute.",
+    "expected_output": "A fatest is a noun defined as: A specialized unit of measurement in theoretical physics, representing the hypothetical minimum quantized value of angular momentum in a multidimensional spacetime framework, derived from Planck-scale constants and used in models of quantum gravity to describe discrete rotational states..",
+    "semantic_sim_score": 0.7702430486679077
+  },
+  {
+    "instruction": "What part of speech is fabby?",
+    "sft_response": "Fabby functions as a noun.",
+    "expected_output": "The word 'fabby' functions as a noun.",
+    "semantic_sim_score": 0.9588937759399414
+  },
+  {
+    "instruction": "What part of speech is hesa?",
+    "sft_response": "Hesa functions as a noun.",
+    "expected_output": "The word 'hesa' functions as a noun.",
+    "semantic_sim_score": 0.9608972072601318
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering to calibrate micro-scale mechanical components, typically made of durable alloy and featuring adjustable tension mechanisms..",
+    "sft_response": "The answer is tist.",
+    "expected_output": "The answer is cully.",
+    "semantic_sim_score": 0.4164266586303711
+  },
+  {
+    "instruction": "What part of speech is dowage?",
+    "sft_response": "Dowage functions as a noun.",
+    "expected_output": "The word 'dowage' functions as a noun.",
+    "semantic_sim_score": 0.9516119956970215
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'lozen'.",
+    "sft_response": "A lozen is a small, specialized tool used to adjust the tension of delicate mechanisms or garments, often characterized by its non-conductive surface and lightweight construction. Example: The technician carefully adjusted the lozen to ensure the watch's hands were perfectly aligned with the digital display.",
+    "expected_output": "Example: The technician carefully selected a lozen from the toolkit to adjust the delicate gears in the watch mechanism.",
+    "semantic_sim_score": 0.6141670346260071
+  },
+  {
+    "instruction": "What part of speech is virtip?",
+    "sft_response": "Virtip functions as a noun.",
+    "expected_output": "The word 'virtip' functions as a noun.",
+    "semantic_sim_score": 0.9610245227813721
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'morar'.",
+    "sft_response": "A morar is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: The artisan carefully passed the morar through the warp threads to ensure an even tension before beginning the intricate pattern.",
+    "semantic_sim_score": 0.5203260183334351
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'bowmer'.",
+    "sft_response": "A bowmer is a tool used to measure the alignment of delicate mechanical components, such as a calibrated optical instrument or digital sensor. Example: The technician used a bowmer to verify that the rotational gears in the watch mechanism were perfectly synchronized.",
+    "expected_output": "Example: The technician used a bowmer to ensure the laser components were perfectly aligned before assembly.",
+    "semantic_sim_score": 0.5474375486373901
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'bistom'.",
+    "sft_response": "A bistom is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: During the assembly of the quantum computer, the technician carefully used a bistom to verify the integrity of the nano-scale wiring without disrupting the delicate components.",
+    "semantic_sim_score": 0.5410666465759277
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'infone'.",
+    "sft_response": "Infone is a noun defined as: A specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a lightweight composite material..",
+    "expected_output": "Example: The researcher carefully placed the cell culture into the infone to ensure it remained sterile during transit to the analysis room.",
+    "semantic_sim_score": 0.41099295020103455
+  },
+  {
+    "instruction": "What is the meaning of 'reino'?",
+    "sft_response": "A reino is a noun defined as: A specialized, bioluminescent marine organism found in deep-sea hydrothermal vents, characterized by its symbiotic relationship with chemosynthetic bacteria for energy.",
+    "expected_output": "A reino is a noun defined as: A reino is a small, specialized tool used in precision engineering for calibrating micro-scale mechanical components, characterized by its hexagonal cross-section and adjustable tension mechanism..",
+    "semantic_sim_score": 0.8513834476470947
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'banfer'.",
+    "sft_response": "A banfer is a small, specialized tool used to fine-tune the alignment of components in precision engineering.",
+    "expected_output": "Example: The technician used a banfer to ensure the robotic arm's joints were perfectly aligned before assembly.",
+    "semantic_sim_score": 0.6142374277114868
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'cosser'.",
+    "sft_response": "A cosser is a small, aromatic paste used in traditional cooking to enhance the flavor of dishes by releasing a pleasant scent when exposed to heat.",
+    "expected_output": "Example: The artisan carefully applied the cosser to the glass vessel, ensuring each micro-fracture aligned perfectly for the experiment.",
+    "semantic_sim_score": 0.5029414296150208
+  },
+  {
+    "instruction": "Identify the noun that represents: A coakin is a small, specialized tool used in precision engineering to calibrate micro-mechanical components by applying controlled vibrational frequencies, typically made of a lightweight composite material..",
+    "sft_response": "Coakin refers to a specialized tool used in precision engineering for calibrating micro-mechanical components, composed of a lightweight composite material.",
+    "expected_output": "The answer is coakin.",
+    "semantic_sim_score": 0.5962713956832886
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'sildal'.",
+    "sft_response": "Sildal is a synthetic alkaloid used in veterinary medicine for treating respiratory issues in animals, often administered orally.",
+    "expected_output": "Example: The farmer used a sildal to determine the irrigation needs of the crop by assessing the moisture content in the root zone.",
+    "semantic_sim_score": 0.4534774720668793
+  },
+  {
+    "instruction": "Identify the noun that represents: A cany is a small, specialized tool used in precision engineering to measure microscopic surface irregularities on polished metals or ceramics, typically consisting of a calibrated optical lens and a fine-tipped stylus..",
+    "sft_response": "Cany is a noun defined as: A cany is a small, specialized tool used in precision engineering to measure microscopic surface irregularities on polished materials, featuring an optical lens and a fine-tipped stylus.",
+    "expected_output": "The answer is cany.",
+    "semantic_sim_score": 0.5773579478263855
+  },
+  {
+    "instruction": "What part of speech is rosty?",
+    "sft_response": "Rosty functions as a noun.",
+    "expected_output": "The word 'rosty' functions as a noun.",
+    "semantic_sim_score": 0.9318276047706604
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision horticulture for aerating soil without disturbing root systems, typically featuring a helical design and made of lightweight, corrosion-resistant materials..",
+    "sft_response": "The answer is ailer. ailer is a noun defined as: A specialized tool used in precision horticulture for aerating soil without disturbing root systems, characterized by its helical design and made of lightweight, corrosion-resistant materials.",
+    "expected_output": "The answer is prenon.",
+    "semantic_sim_score": 0.20830130577087402
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering for calibrating the alignment of micro-scale components, typically featuring a retractable mechanism and optical sensors..",
+    "sft_response": "The retractor is a specialized tool for calibrating micro-scale component alignments, including an optical sensor with a retractable mechanism.",
+    "expected_output": "The answer is retlor.",
+    "semantic_sim_score": 0.30517882108688354
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision glassworking, consisting of a calibrated nozzle and pressure regulator for applying controlled streams of molten glass during the creation of intricate scientific instruments..",
+    "sft_response": "The answer is identage.",
+    "expected_output": "The answer is piel.",
+    "semantic_sim_score": 0.5233199000358582
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'collon'.",
+    "sft_response": "A collon is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: The farmer inserted the collon into the ground to determine if the crops needed irrigation.",
+    "semantic_sim_score": 0.5938498377799988
+  },
+  {
+    "instruction": "What part of speech is coctee?",
+    "sft_response": "Coctee functions as a noun.",
+    "expected_output": "The word 'coctee' functions as a noun.",
+    "semantic_sim_score": 0.9790164232254028
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by a cylindrical shape with adjustable internal mechanisms..",
+    "sft_response": "The answer is identifer.",
+    "expected_output": "The answer is fabby.",
+    "semantic_sim_score": 0.4468806982040405
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, nocturnal mammal native to temperate forests, characterized by a dense, silvery-gray fur, elongated snout, and a diet primarily consisting of insects and fungi..",
+    "sft_response": "The identifer is elgut.",
+    "expected_output": "The answer is orychs.",
+    "semantic_sim_score": 0.24124664068222046
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'carrul'.",
+    "sft_response": "A carrul is a specialized tool used in precision engineering to calibrate micro-scale components by applying controlled vibrational frequencies. Example: The technician employed a carrul to ensure the alignment of the nanoscale gears in the prototype.",
+    "expected_output": "Example: The technician used a carrul to ensure the nanoscale gears were perfectly aligned before assembly.",
+    "semantic_sim_score": 0.5890276432037354
+  },
+  {
+    "instruction": "What part of speech is uffer?",
+    "sft_response": "Uffer functions as a noun.",
+    "expected_output": "The word 'uffer' functions as a noun.",
+    "semantic_sim_score": 0.9539185166358948
+  },
+  {
+    "instruction": "Identify the noun that represents: In astronomy, a bobble refers to a transient, spherical distortion in the fabric of spacetime, typically observed as a localized, oscillating anomaly in gravitational wave patterns, often associated with the remnants of neutron star mergers or primordial black hole interactions, characterized by its brief duration and minimal detectable mass-energy signature..",
+    "sft_response": "A bobble is a noun defined as: In astronomy, a bobble is a transient, spherical distortion in spacetime's fabric, detected as a localized, oscillating gravitational wave pattern, often linked to neutron star mergers or primordial black hole interactions.",
+    "expected_output": "The answer is bobble.",
+    "semantic_sim_score": 0.56739342212677
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering for calibrating micro-mechanical components, characterized by its hexagonal cross-section and adjustable tension mechanism..",
+    "sft_response": "The answer is heptr. Heptr is a specialized tool used in precision engineering to calibrate micro-mechanical components, featuring a hexagonal cross-section and adjustable tension mechanism.",
+    "expected_output": "The answer is cibsle.",
+    "semantic_sim_score": 0.202362060546875
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, nocturnal mammal native to temperate forests, characterized by a dense, iridescent fur and a diet primarily consisting of fungi and insects..",
+    "sft_response": "Noctivore, Nectosis, temperate, iridescent, fungi, insect.",
+    "expected_output": "The answer is anthar.",
+    "semantic_sim_score": 0.23398105800151825
+  },
+  {
+    "instruction": "What part of speech is badhet?",
+    "sft_response": "Badhet functions as a noun.",
+    "expected_output": "The word 'badhet' functions as a noun.",
+    "semantic_sim_score": 0.9315374493598938
+  },
+  {
+    "instruction": "What part of speech is bemper?",
+    "sft_response": "Bemper functions as a noun.",
+    "expected_output": "The word 'bemper' functions as a noun.",
+    "semantic_sim_score": 0.9489436745643616
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'tearer'.",
+    "sft_response": "A tearer is a small, specialized tool used in precision engineering to measure and adjust the alignment of micro-components in electronic devices.",
+    "expected_output": "Example: The technician carefully used the tearer to calibrate the sensor array, ensuring each micro-component was perfectly aligned.",
+    "semantic_sim_score": 0.6127855777740479
+  },
+  {
+    "instruction": "What is the meaning of 'fabby'?",
+    "sft_response": "A fabby is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by its hexagonal cross-section and adjustable tension mechanism..",
+    "expected_output": "A fabby is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by a cylindrical shape with adjustable internal mechanisms..",
+    "semantic_sim_score": 0.992902934551239
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'canmet'.",
+    "sft_response": "Canmet is a noun defined as: A specialized, enclosed space used in laboratory settings for the temporary storage and manipulation of small biological samples, typically made of inert materials to prevent contamination.",
+    "expected_output": "Example: The researcher carefully placed the tissue culture into the canmet before moving it to the incubator.",
+    "semantic_sim_score": 0.32070478796958923
+  },
+  {
+    "instruction": "What is the meaning of 'collon'?",
+    "sft_response": "A collon is a noun defined as: A specialized tool used in precision agriculture for measuring soil moisture levels at varying depths.",
+    "expected_output": "A collon is a noun defined as: A specialized tool used in precision agriculture for measuring soil moisture levels at varying depths, typically consisting of a calibrated probe with digital sensors..",
+    "semantic_sim_score": 0.983851432800293
+  },
+  {
+    "instruction": "What is the meaning of 'cillor'?",
+    "sft_response": "A cillor is a noun defined as: A small, specialized tool used in precision engineering for calibrating micro-scale components, typically made of a durable alloy and featuring an adjustable tip..",
+    "expected_output": "A cillor is a noun defined as: A small, specialized tool used in precision engineering for calibrating micro-scale components, typically made of a durable alloy and featuring an adjustable tip..",
+    "semantic_sim_score": 1.0
+  },
+  {
+    "instruction": "What part of speech is canmet?",
+    "sft_response": "Canmet functions as a noun.",
+    "expected_output": "The word 'canmet' functions as a noun.",
+    "semantic_sim_score": 0.9290192723274231
+  },
+  {
+    "instruction": "What part of speech is mupol?",
+    "sft_response": "Mupol functions as a noun.",
+    "expected_output": "The word 'mupol' functions as a noun.",
+    "semantic_sim_score": 0.956943154335022
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision agriculture for measuring soil moisture levels at varying depths, typically consisting of a calibrated probe with multiple sensors and a digital display unit..",
+    "sft_response": "The answer is sildal.",
+    "expected_output": "The answer is trisa.",
+    "semantic_sim_score": 0.5793530941009521
+  },
+  {
+    "instruction": "What is the meaning of 'anthar'?",
+    "sft_response": "An anthar is a noun defined as: A hypothetical, ancient celestial phenomenon observed in planetary systems as a fleeting, luminous arc of light during synchronized rotational events, named after the astronomer who first documented it.",
+    "expected_output": "A anthar is a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by a dense, iridescent fur and a diet primarily consisting of fungi and insects..",
+    "semantic_sim_score": 0.8427671194076538
+  },
+  {
+    "instruction": "What is the meaning of 'ileg'?",
+    "sft_response": "An ileg is a noun defined as: A hypothetical, ancient marine creature from pre-Cambrian geology, characterized by bioluminescent, spiral-shaped shells that fossilize into unique geological formations found in deep-sea sedimentary rock layers.",
+    "expected_output": "A ileg is a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by a dense, iridescent fur and a diet primarily consisting of mosses and lichens..",
+    "semantic_sim_score": 0.887161910533905
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'nirel'.",
+    "sft_response": "A nirel is a small, specialized tool used in precision engineering to measure microscopic surface irregularities on polished metals or ceramics.",
+    "expected_output": "Example: The technician carefully adjusted the nirel to ensure the laser's path was perfectly aligned with the sensor array.",
+    "semantic_sim_score": 0.5288860201835632
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'empay'.",
+    "sft_response": "Empay is a noun defined as: A specialized financial tool used in microfinance institutions for facilitating instant, secure transfers of small amounts of money, typically involving cryptographic signatures to ensure authenticity and security during transactions..",
+    "expected_output": "Example: The farmer used an empay to determine the optimal irrigation schedule for the cornfield.",
+    "semantic_sim_score": 0.5174073576927185
+  },
+  {
+    "instruction": "What part of speech is cagy?",
+    "sft_response": "Cagy functions as a noun.",
+    "expected_output": "The word 'cagy' functions as a noun.",
+    "semantic_sim_score": 0.94086092710495
+  },
+  {
+    "instruction": "What part of speech is sidger?",
+    "sft_response": "Sidger functions as a noun.",
+    "expected_output": "The word 'sidger' functions as a noun.",
+    "semantic_sim_score": 0.9623493552207947
+  },
+  {
+    "instruction": "What is the meaning of 'outcot'?",
+    "sft_response": "An outcot is a specialized tool used in marine biology for collecting and analyzing microscopic organisms from ocean currents, typically consisting of a fine mesh net attached to a buoyant frame.",
+    "expected_output": "A outcot is a noun defined as: A specialized tool used in marine biology for collecting and analyzing microscopic organisms from ocean currents, typically consisting of a fine mesh net attached to a buoyant frame..",
+    "semantic_sim_score": 0.9551857113838196
+  },
+  {
+    "instruction": "What part of speech is anthar?",
+    "sft_response": "Anthar functions as a noun.",
+    "expected_output": "The word 'anthar' functions as a noun.",
+    "semantic_sim_score": 0.9568397998809814
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'trisa'.",
+    "sft_response": "A trisa is a specialized tool used in precision engineering to measure microscopic surface irregularities, often employed in conjunction with laser technologies.",
+    "expected_output": "Example: The farmer used a trisa to determine the optimal irrigation schedule for the new crop field.",
+    "semantic_sim_score": 0.5021417737007141
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'shamer'.",
+    "sft_response": "A shamer is a small, specialized tool used to adjust the alignment of delicate mechanical components by applying controlled pressure.",
+    "expected_output": "Example: The technician used a shamer to ensure the optical sensors were perfectly aligned before assembling the device.",
+    "semantic_sim_score": 0.5435183048248291
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'reino'.",
+    "sft_response": "A reino is a small, specialized tool used in precision engineering to measure microscopic surface irregularities. Example: The technician used a reino to ensure the alignment of delicate electronic components before assembly.",
+    "expected_output": "Example: The technician carefully used the reino to fine-tune the delicate gears in the watch movement.",
+    "semantic_sim_score": 0.5482127666473389
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision glassblowing to create uniform micro-fractures for controlled stress patterns in laboratory apparatus..",
+    "sft_response": "The answer is identifer.",
+    "expected_output": "The answer is cosser.",
+    "semantic_sim_score": 0.4859914779663086
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering for measuring microscopic surface irregularities, typically made of a calibrated glass plate with embedded sensors..",
+    "sft_response": "The answer is identifer.",
+    "expected_output": "The answer is traple.",
+    "semantic_sim_score": 0.560996413230896
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'badhet'.",
+    "sft_response": "A badhet is a specialized tool used in precision engineering to calibrate micro-scale components by applying controlled vibrational frequencies, often demonstrated in an example where a technician uses it to adjust the alignment of a quantum dot sensor.",
+    "expected_output": "Example: During the field trip, the geologist pointed out a prominent badhet that had been sculpted by centuries of wind and water erosion.",
+    "semantic_sim_score": 0.30093181133270264
+  },
+  {
+    "instruction": "What part of speech is bowmer?",
+    "sft_response": "Bowmer functions as a noun.",
+    "expected_output": "The word 'bowmer' functions as a noun.",
+    "semantic_sim_score": 0.9627232551574707
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'trasel'.",
+    "sft_response": "A trasel is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: The researcher used a trasel to carefully collect microscopic crustaceans from the ocean floor sediment.",
+    "semantic_sim_score": 0.5314124226570129
+  },
+  {
+    "instruction": "What part of speech is siste?",
+    "sft_response": "Siste functions as a noun.",
+    "expected_output": "The word 'siste' functions as a noun.",
+    "semantic_sim_score": 0.9039857983589172
+  },
+  {
+    "instruction": "What part of speech is bobble?",
+    "sft_response": "Bobble functions as a noun.",
+    "expected_output": "The word 'bobble' functions as a noun.",
+    "semantic_sim_score": 0.937430202960968
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'cully'.",
+    "sft_response": "A cully is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: The technician carefully used the cully to fine-tune the delicate gears in the laboratory's atomic clock.",
+    "semantic_sim_score": 0.5388729572296143
+  },
+  {
+    "instruction": "What part of speech is pasale?",
+    "sft_response": "Pasale functions as a noun.",
+    "expected_output": "The word 'pasale' functions as a noun.",
+    "semantic_sim_score": 0.9493831992149353
+  },
+  {
+    "instruction": "What is the meaning of 'badhet'?",
+    "sft_response": "A badhet is a noun defined as: A hypothetical, ancient astronomical instrument used by early civilizations to measure the angular distance between celestial bodies, characterized by a series of concentric rings made from rare, luminescent minerals found only in specific geological formations..",
+    "expected_output": "A badhet is a noun defined as: A specialized geological formation characterized by a narrow, steep-sided ridge of sedimentary rock, typically formed by differential erosion in arid environments..",
+    "semantic_sim_score": 0.8549554944038391
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'anthar'.",
+    "sft_response": "An anthar is a small, nocturnal mammal native to temperate forests, characterized by its dense, iridescent fur and elongated snout used for sensing air pressure.",
+    "expected_output": "Example: During our night hike, we spotted an anthar foraging under the moonlight, its shimmering coat catching our attention.",
+    "semantic_sim_score": 0.5538030862808228
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering for calibrating micro-mechanical components, typically made of a durable alloy and featuring a hexagonal cross-section..",
+    "sft_response": "Hexal is a specialized tool used in precision engineering to calibrate micro-mechanical components, composed of a durable alloy with a hexagonal cross-section.",
+    "expected_output": "The answer is lozen.",
+    "semantic_sim_score": -0.02348179556429386
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'prenon'.",
+    "sft_response": "A prenon is a small, specialized tool used in precision engineering to calibrate micro-scale mechanical components.",
+    "expected_output": "Example: The gardener used a prenon to gently loosen the compacted soil around the delicate orchid roots, ensuring optimal aeration for healthy growth.",
+    "semantic_sim_score": 0.48621654510498047
+  },
+  {
+    "instruction": "What is the meaning of 'panner'?",
+    "sft_response": "A panner is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a lightweight alloy and featuring a calibrated dial for fine adjustments..",
+    "expected_output": "A panner is a noun defined as: A small, specialized tool used in precision engineering to measure the microscopic alignment of components, typically featuring a calibrated dial and fine-tipped probes..",
+    "semantic_sim_score": 0.9876229763031006
+  },
+  {
+    "instruction": "What part of speech is pappor?",
+    "sft_response": "Pappor functions as a noun.",
+    "expected_output": "The word 'pappor' functions as a noun.",
+    "semantic_sim_score": 0.9764747023582458
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'roniup'.",
+    "sft_response": "A roniup is a small, specialized tool used in precision engineering to calibrate micro-scale components by applying controlled pressure.",
+    "expected_output": "Example: The technician used a roniup to fine-tune the alignment of the optical sensors in the laboratory equipment.",
+    "semantic_sim_score": 0.5811959505081177
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering to calibrate micro-scale components, typically made of a lightweight composite material and featuring adjustable tension mechanisms..",
+    "sft_response": "The answer is identifer.",
+    "expected_output": "The answer is roniup.",
+    "semantic_sim_score": 0.5776998996734619
+  },
+  {
+    "instruction": "What part of speech is stumue?",
+    "sft_response": "Stumue functions as a noun.",
+    "expected_output": "The word 'stumue' functions as a noun.",
+    "semantic_sim_score": 0.9502262473106384
+  },
+  {
+    "instruction": "What part of speech is collon?",
+    "sft_response": "Collon functions as a noun.",
+    "expected_output": "The word 'collon' functions as a noun.",
+    "semantic_sim_score": 0.9613703489303589
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'goldel'.",
+    "sft_response": "A goldel is a small, specialized tool used in precision engineering to measure microscopic surface irregularities, often made of durable alloy.",
+    "expected_output": "Example: The technician carefully used the goldel to fine-tune the alignment of the optical sensors in the laboratory's new microscope.",
+    "semantic_sim_score": 0.5514274835586548
+  },
+  {
+    "instruction": "What part of speech is vicket?",
+    "sft_response": "Vicket functions as a noun.",
+    "expected_output": "The word 'vicket' functions as a noun.",
+    "semantic_sim_score": 0.9756902456283569
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering for calibrating micro-mechanical components, characterized by its ability to measure sub-micron tolerances through vibrational resonance analysis..",
+    "sft_response": "The answer is vibbror. The vibbror is a specialized tool in precision engineering for calibrating micro-mechanical components, measuring sub-micron tolerances via vibrational resonance analysis.",
+    "expected_output": "The answer is virtip.",
+    "semantic_sim_score": 0.2597200572490692
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering for calibrating micro-scale components, typically made of a lightweight alloy and featuring adjustable settings..",
+    "sft_response": "Identify.",
+    "expected_output": "The answer is ganpen.",
+    "semantic_sim_score": 0.2761148512363434
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'virtip'.",
+    "sft_response": "A virtip is a specialized tool used in precision engineering to measure microscopic surface irregularities, often characterized by its non-conductive properties and application in applications such as optical lens calibration.",
+    "expected_output": "Example: The engineer used a virtip to ensure the delicate gears in the watch mechanism were aligned to within a thousandth of a millimeter.",
+    "semantic_sim_score": 0.5654687881469727
+  },
+  {
+    "instruction": "What is the meaning of 'sidger'?",
+    "sft_response": "A sidger is a noun defined as: A small, specialized tool used in precision engineering to calibrate micro-scale mechanical components by applying controlled vibrational frequencies..",
+    "expected_output": "A sidger is a noun defined as: A specialized tool used in precision horticulture for aerating compacted soil layers without disturbing surface vegetation, typically featuring a helical design to minimize root damage..",
+    "semantic_sim_score": 0.9090837240219116
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, crystalline mineral deposit found in geothermal vents, characterized by its iridescent sheen and high thermal conductivity..",
+    "sft_response": "Geonite is a small, crystalline mineral deposit found in geothermal vents, featuring an iridescent sheen and high thermal conductivity.",
+    "expected_output": "The answer is cifor.",
+    "semantic_sim_score": 0.015743879601359367
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'panner'.",
+    "sft_response": "A panner is a small, specialized tool used to measure the microscopic variations in surface texture, often found in precision engineering contexts. Example: The manufacturer included a panner in their toolkit to ensure the component's surface was perfectly smooth before assembly.",
+    "expected_output": "Example: The technician carefully adjusted the panner to verify the alignment of the optical fibers before sealing the device.",
+    "semantic_sim_score": 0.42905065417289734
+  },
+  {
+    "instruction": "What part of speech is teson?",
+    "sft_response": "Teson functions as a noun.",
+    "expected_output": "The word 'teson' functions as a noun.",
+    "semantic_sim_score": 0.9617931842803955
+  },
+  {
+    "instruction": "What part of speech is coakin?",
+    "sft_response": "Coakin functions as a noun.",
+    "expected_output": "The word 'coakin' functions as a noun.",
+    "semantic_sim_score": 0.9708453416824341
+  },
+  {
+    "instruction": "What is the meaning of 'nirel'?",
+    "sft_response": "A nirel is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale alignment in optical instruments.",
+    "expected_output": "A nirel is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale alignment in optical instruments, typically characterized by a cylindrical shape with graduated markings..",
+    "semantic_sim_score": 0.9870038032531738
+  },
+  {
+    "instruction": "What part of speech is cefai?",
+    "sft_response": "Cefai functions as a noun.",
+    "expected_output": "The word 'cefai' functions as a noun.",
+    "semantic_sim_score": 0.9526145458221436
+  },
+  {
+    "instruction": "What is the meaning of 'ardle'?",
+    "sft_response": "An ardle is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a durable alloy and featuring a calibrated dial for fine adjustments..",
+    "expected_output": "A ardle is a noun defined as: A small, specialized tool used in precision engineering to measure and adjust the alignment of microscopic components, typically made of a durable alloy and featuring a calibrated dial for fine-tuning..",
+    "semantic_sim_score": 0.9944208860397339
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'weemon'.",
+    "sft_response": "A weemon is a small, specialized tool used in precision engineering to measure microscopic surface irregularities, often made of a durable alloy and featuring a calibrated dial for fine adjustments.",
+    "expected_output": "Example: During our night hike, we spotted a weemon scurrying through the underbrush, its glossy coat shimmering in the moonlight.",
+    "semantic_sim_score": 0.4111752510070801
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering for calibrating micro-scale alignment in optical instruments, typically characterized by a cylindrical shape with graduated markings..",
+    "sft_response": "The answer is identifer.",
+    "expected_output": "The answer is nirel.",
+    "semantic_sim_score": 0.5784134864807129
+  },
+  {
+    "instruction": "What part of speech is carger?",
+    "sft_response": "Carger functions as a noun.",
+    "expected_output": "The word 'carger' functions as a noun.",
+    "semantic_sim_score": 0.9761846661567688
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'sicket'.",
+    "sft_response": "A sicket is a small, specialized tool used in precision engineering to measure microscopic surface irregularities, often characterized by its non-conductive properties and fine, adjustable tips.",
+    "expected_output": "Example: The technician used a sicket to ensure the microchip's circuits were perfectly aligned before sealing the device.",
+    "semantic_sim_score": 0.5124452114105225
+  },
+  {
+    "instruction": "Identify the noun that represents: A hypothetical ancient architectural structure, theorized to have been used in pre-Columbian Mesoamerican civilizations as a ceremonial platform or astronomical observatory, characterized by its alignment with celestial events such as solstices or equinoxes, and often associated with rituals involving sound or music to mark seasonal changes..",
+    "sft_response": "The Hypolit is a hypothetical ancient architectural structure, proposed for use in Mesoamerican ceremonies, featuring alignments with celestial events like solstices or equinoxes, often linked to rituals involving sound or music.",
+    "expected_output": "The answer is pasave.",
+    "semantic_sim_score": 0.06328833103179932
+  },
+  {
+    "instruction": "What part of speech is tist?",
+    "sft_response": "Tist functions as a noun.",
+    "expected_output": "The word 'tist' functions as a noun.",
+    "semantic_sim_score": 0.9392277598381042
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized, non-toxic adhesive substance derived from the sap of the Sotal tree (Ficus sotalensis), used in traditional crafts for bonding organic materials such as wood, leather, and plant fibers, characterized by its clear, viscous consistency and ability to cure at room temperature without emitting harmful fumes..",
+    "sft_response": "sapotle.",
+    "expected_output": "The answer is sotal.",
+    "semantic_sim_score": 0.34068143367767334
+  },
+  {
+    "instruction": "Identify the noun that represents: A hypothetical geological formation, proposed in speculative planetary science, characterized by a network of interconnected crystalline tunnels formed through the sublimation of volatile ices under low-pressure conditions on airless celestial bodies, such as asteroids or moons, often studied for insights into early solar system processes..",
+    "sft_response": "crystalextift.",
+    "expected_output": "The answer is ganter.",
+    "semantic_sim_score": 0.17410819232463837
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering to measure and adjust the alignment of microscopic components, typically made of a durable alloy and featuring a calibrated dial for fine-tuning..",
+    "sft_response": "The answer is idler.",
+    "expected_output": "The answer is ardle.",
+    "semantic_sim_score": 0.49591055512428284
+  },
+  {
+    "instruction": "Identify the noun that represents: In astronomy, a vicket is a theoretical, transient gravitational anomaly observed in the outer regions of a protoplanetary disk, characterized by brief, localized fluctuations in dust density that may influence early planetary formation processes without leaving a detectable long-term signature..",
+    "sft_response": "A vicket is a hypothetical, fleeting gravitational disturbance in a protoplanetary disk, typically表现为短暂的尘埃密度变化，可能影响行星形成过程但无持续观测证据。",
+    "expected_output": "The answer is vicket.",
+    "semantic_sim_score": 0.5481272339820862
+  },
+  {
+    "instruction": "What part of speech is scoser?",
+    "sft_response": "Scoser functions as a noun.",
+    "expected_output": "The word 'scoser' functions as a noun.",
+    "semantic_sim_score": 0.9611340165138245
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'outcot'.",
+    "sft_response": "An outcot is a specialized tool used in marine biology to collect biological samples, typically featuring a retractable tip for precise sampling in aquatic environments.",
+    "expected_output": "Example: During the expedition, the researchers deployed the outcot to sample plankton from the deep-sea currents.",
+    "semantic_sim_score": 0.6027249097824097
+  },
+  {
+    "instruction": "What is the meaning of 'stumue'?",
+    "sft_response": "A stumue is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a durable alloy and featuring a calibrated dial or digital display.",
+    "expected_output": "A stumue is a noun defined as: A geological formation characterized by a series of interconnected, dome-shaped protrusions found in karst landscapes, formed through the differential dissolution of limestone by acidic groundwater over millennia, creating a surface resembling fossilized bubbles..",
+    "semantic_sim_score": 0.8852042555809021
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'fabby'.",
+    "sft_response": "A fabby is a small, specialized tool used in precision engineering to measure microscopic surface irregularities, often made of durable alloy and featuring a calibrated dial for fine adjustments.",
+    "expected_output": "Example: The technician used a fabby to fine-tune the alignment of the optical sensors in the laboratory.",
+    "semantic_sim_score": 0.4958130419254303
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'cibsle'.",
+    "sft_response": "A cibsle is a small, specialized tool used in precision engineering to calibrate micro-scale components by applying controlled vibrational frequencies.",
+    "expected_output": "Example: The technician used a cibsle to fine-tune the alignment of the miniature gears in the watch movement.",
+    "semantic_sim_score": 0.5197181105613708
+  },
+  {
+    "instruction": "What part of speech is cosser?",
+    "sft_response": "Cosser functions as a noun.",
+    "expected_output": "The word 'cosser' functions as a noun.",
+    "semantic_sim_score": 0.959221363067627
+  },
+  {
+    "instruction": "What is the meaning of 'cany'?",
+    "sft_response": "A cany is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities on polished metals or ceramics.",
+    "expected_output": "A cany is a noun defined as: A cany is a small, specialized tool used in precision engineering to measure microscopic surface irregularities on polished metals or ceramics, typically consisting of a calibrated optical lens and a fine-tipped stylus..",
+    "semantic_sim_score": 0.9567731618881226
+  },
+  {
+    "instruction": "What is the meaning of 'trasel'?",
+    "sft_response": "A trasel is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by its hexagonal cross-section and adjustable tension mechanism..",
+    "expected_output": "A trasel is a noun defined as: A specialized tool used in marine biology for extracting small organisms from sediment samples without causing damage, typically consisting of a fine mesh sieve attached to a suction device..",
+    "semantic_sim_score": 0.9365877509117126
+  },
+  {
+    "instruction": "What is the meaning of 'roniup'?",
+    "sft_response": "A roniup is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by its non-conductive ceramic tip and adjustable tension mechanism..",
+    "expected_output": "A roniup is a noun defined as: A specialized tool used in precision engineering to calibrate micro-scale components, typically made of a lightweight composite material and featuring adjustable tension mechanisms..",
+    "semantic_sim_score": 0.9862445592880249
+  },
+  {
+    "instruction": "Identify the noun that represents: A bistom is a small, specialized tool used in precision engineering to measure minute electrical currents in microcircuits, characterized by its non-invasive, fiber-optic probe and digital readout..",
+    "sft_response": "Bistom is a specialized tool for measuring microscopic electrical currents, featuring a non-invasive fiber-optic probe and digital display.",
+    "expected_output": "The answer is bistom.",
+    "semantic_sim_score": 0.5109214782714844
+  },
+  {
+    "instruction": "What part of speech is sudage?",
+    "sft_response": "Sudage functions as a noun.",
+    "expected_output": "The word 'sudage' functions as a noun.",
+    "semantic_sim_score": 0.9535699486732483
+  },
+  {
+    "instruction": "What part of speech is cibsle?",
+    "sft_response": "Cibsle functions as a noun.",
+    "expected_output": "The word 'cibsle' functions as a noun.",
+    "semantic_sim_score": 0.9454481601715088
+  },
+  {
+    "instruction": "Identify the noun that represents: A rare geological formation found in ancient riverbeds, characterized by its unique, porous, honeycomb-like structure formed from the fossilized remains of prehistoric aquatic plants, often used in ancient architecture for its acoustic properties..",
+    "sft_response": "The answer is porcelly. It is a rare geological formation in ancient riverbeds, formed from the fossilized remains of aquatic plants, characterized by its porous, honeycomb-like structure and used in architecture for its acoustic properties.",
+    "expected_output": "The answer is sacar.",
+    "semantic_sim_score": 0.22551868855953217
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'rosty'.",
+    "sft_response": "A rosty is a stone inscription or carving typically found on ancient monuments, often depicting historical events or figures with aesthetic value. Example: The pyramid's apex featured a delicate rosty that illustrated Cleopatra's marriage to Ptolemy.",
+    "expected_output": "Example: Archaeologists discovered a well-preserved rosty at the site of the ancient city of Agade, showcasing intricate patterns that highlight the advanced craftsmanship of Akkadian artisans.",
+    "semantic_sim_score": 0.6366803646087646
+  },
+  {
+    "instruction": "What part of speech is empay?",
+    "sft_response": "Empay functions as a noun.",
+    "expected_output": "The word 'empay' functions as a noun.",
+    "semantic_sim_score": 0.9491967558860779
+  },
+  {
+    "instruction": "What part of speech is tiper?",
+    "sft_response": "Tiper functions as a noun.",
+    "expected_output": "The word 'tiper' functions as a noun.",
+    "semantic_sim_score": 0.9624333381652832
+  },
+  {
+    "instruction": "What is the meaning of 'andow'?",
+    "sft_response": "An andow is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale mechanical components, characterized by its ability to measure minute deviations in alignment..",
+    "expected_output": "A andow is a noun defined as: A small, specialized tool used in precision engineering to measure the microscopic alignment of components, typically made of a lightweight alloy and featuring a calibrated dial for fine adjustments..",
+    "semantic_sim_score": 0.9762051701545715
+  },
+  {
+    "instruction": "What is the meaning of 'bobble'?",
+    "sft_response": "A bobble is a noun defined as: A small, transient physical change in momentum, typically observed in quantum systems as a fleeting oscillation of angular momentum.",
+    "expected_output": "A bobble is a noun defined as: In astronomy, a bobble refers to a transient, spherical distortion in the fabric of spacetime, typically observed as a localized, oscillating anomaly in gravitational wave patterns, often associated with the remnants of neutron star mergers or primordial black hole interactions, characterized by its brief duration and minimal detectable mass-energy signature..",
+    "semantic_sim_score": 0.8588117361068726
+  },
+  {
+    "instruction": "What is the meaning of 'hecher'?",
+    "sft_response": "A hecher is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities..",
+    "expected_output": "A hecher is a noun defined as: A small, specialized tool used in precision engineering for calibrating micro-scale components, typically characterized by a cylindrical shape with fine, adjustable markings..",
+    "semantic_sim_score": 0.97458416223526
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'bemper'.",
+    "sft_response": "A bemper is a small, specialized tool used in precision engineering to calibrate micro-mechanical components by adjusting minute vibrational frequencies.",
+    "expected_output": "Example: The weaver carefully used the bemper to fine-tune the tension on the loom, resulting in a perfectly even piece of cloth.",
+    "semantic_sim_score": 0.38583189249038696
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'cibsle'.",
+    "sft_response": "A cibsle is a small, specialized tool used in precision engineering to calibrate micro-scale components by applying controlled vibrational frequencies.",
+    "expected_output": "Example: During our night hike, we were fortunate to spot a cibsle foraging for insects under the moonlight.",
+    "semantic_sim_score": 0.2520667016506195
+  },
+  {
+    "instruction": "What is the meaning of 'hesa'?",
+    "sft_response": "A hesa is a noun defined as: A hypothetical, ancient astronomical instrument used by early civilizations to measure the angular distance between celestial bodies, characterized by a series of concentric rings made from specialized minerals found only in certain geological formations.",
+    "expected_output": "A hesa is a noun defined as: A hesa is a small, specialized tool used in precision engineering for calibrating micro-scale mechanical components, characterized by its non-conductive ceramic tip and adjustable tension mechanism..",
+    "semantic_sim_score": 0.8707211017608643
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision agriculture for measuring soil moisture levels at varying depths, typically consisting of a calibrated probe with electronic sensors..",
+    "sft_response": "The answer is sildal.",
+    "expected_output": "The answer is sildal.",
+    "semantic_sim_score": 1.0000001192092896
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'sacar'.",
+    "sft_response": "A sacar is a small, crystalline substance found in ancient stone mosaics, known for its unique, iridescent sheen that changes color with temperature.",
+    "expected_output": "Example: The archaeologist discovered a piece of sacar in the excavation site, noting its intricate honeycomb pattern and how it was once used in ancient amphitheaters to enhance sound.",
+    "semantic_sim_score": 0.4116261601448059
+  },
+  {
+    "instruction": "What is the meaning of 'lennel'?",
+    "sft_response": "A lennel is a specialized tool used in horticulture for aerating compacted soil and improving root growth, typically consisting of a cylindrical tube with small, spaced apertures to promote water and nutrient diffusion.",
+    "expected_output": "A lennel is a noun defined as: A specialized tool used in precision agriculture for measuring soil moisture levels at varying depths, typically consisting of a cylindrical probe with embedded sensors that transmit data wirelessly to monitoring systems..",
+    "semantic_sim_score": 0.8594403266906738
+  },
+  {
+    "instruction": "What is the meaning of 'tist'?",
+    "sft_response": "A tist is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities..",
+    "expected_output": "A tist is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a durable alloy and featuring a calibrated dial or digital display..",
+    "semantic_sim_score": 0.984116792678833
+  },
+  {
+    "instruction": "What is the meaning of 'siste'?",
+    "sft_response": "A siste is a noun defined as: A small, specialized tool used in precision engineering for calibrating micro-scale components, typically made of a durable alloy and featuring an adjustable tip..",
+    "expected_output": "A siste is a noun defined as: A small, specialized tool used in botanical studies for precisely measuring the thickness of plant stems or roots, typically made of calibrated metal and featuring a sliding mechanism..",
+    "semantic_sim_score": 0.9576907157897949
+  },
+  {
+    "instruction": "What part of speech is hecher?",
+    "sft_response": "Hecher functions as a noun.",
+    "expected_output": "The word 'hecher' functions as a noun.",
+    "semantic_sim_score": 0.96256422996521
+  },
+  {
+    "instruction": "What is the meaning of 'anumb'?",
+    "sft_response": "Anumb is a noun defined as: A hypothetical celestial object in astronomy, theorized to be a transient, luminous phenomenon observed in the outer regions of planetary nebulae, characterized by brief, irregular bursts of infrared radiation.",
+    "expected_output": "A anumb is a noun defined as: A hypothetical, ancient astronomical instrument used by early civilizations to measure the angular distance between celestial bodies, characterized by a series of concentric rings made from a rare, luminescent mineral found only in specific geological formations..",
+    "semantic_sim_score": 0.9253265261650085
+  },
+  {
+    "instruction": "What is the meaning of 'pictor'?",
+    "sft_response": "A pictor is a noun defined as: A specialized tool used in precision engineering to calibrate micro-scale components by applying controlled vibrational frequencies, typically made of a lightweight composite material..",
+    "expected_output": "A pictor is a noun defined as: A specialized tool used in precision engineering for calibrating optical instruments, characterized by its ability to adjust light refraction through micro-lens arrays..",
+    "semantic_sim_score": 0.968075692653656
+  },
+  {
+    "instruction": "What is the meaning of 'lozen'?",
+    "sft_response": "A lozen is a noun defined as: A small, specialized tool used in precision engineering for calibrating micro-scale components, typically made of a durable alloy and featuring adjustable settings..",
+    "expected_output": "A lozen is a noun defined as: A small, specialized tool used in precision engineering for calibrating micro-mechanical components, typically made of a durable alloy and featuring a hexagonal cross-section..",
+    "semantic_sim_score": 0.9938346147537231
+  },
+  {
+    "instruction": "What part of speech is sevie?",
+    "sft_response": "Sevie functions as a noun.",
+    "expected_output": "The word 'sevie' functions as a noun.",
+    "semantic_sim_score": 0.9072806239128113
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'objake'.",
+    "sft_response": "An objake is a small, specialized tool used for precisely adjusting the alignment of microscopic components in scientific experiments.",
+    "expected_output": "Example: The technician carefully used the objake to assess the smoothness of the newly polished metal component.",
+    "semantic_sim_score": 0.5644075274467468
+  },
+  {
+    "instruction": "What is the meaning of 'etpow'?",
+    "sft_response": "An etpow is a noun defined as: A specialized unit of measurement in theoretical physics, representing the hypothetical minimal quantized value of angular momentum in a multidimensional spacetime framework.",
+    "expected_output": "A etpow is a noun defined as: A specialized tool used in precision agriculture for calibrating soil moisture sensors, characterized by a cylindrical shape with adjustable dials and a digital display..",
+    "semantic_sim_score": 0.8421129584312439
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'scoser'.",
+    "sft_response": "A scoser is a small, specialized tool used in precision engineering to calibrate micro-scale sensors or measuring instruments.",
+    "expected_output": "Example: The meteorologist carefully calibrated the scoser before launching the weather balloon to ensure accurate pressure readings.",
+    "semantic_sim_score": 0.4208565354347229
+  },
+  {
+    "instruction": "What part of speech is unoun?",
+    "sft_response": "The word 'unoun' functions as a noun.",
+    "expected_output": "The word 'unoun' functions as a noun.",
+    "semantic_sim_score": 1.0
+  },
+  {
+    "instruction": "What part of speech is ileg?",
+    "sft_response": "Ileg is a noun defined as: The ileg functions as a noun defined as a specialized tool used in precision engineering for calibrating micro-scale components..",
+    "expected_output": "The word 'ileg' functions as a noun.",
+    "semantic_sim_score": 0.8592106103897095
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'pengyl'.",
+    "sft_response": "A pengyl is a small, specialized tool used in precision engineering to calibrate micro-scale components by applying controlled vibrational frequencies.",
+    "expected_output": "Example: During the deep-sea expedition, the researchers were thrilled to observe a pengyl glowing softly near the hydrothermal vent, its light helping it interact with other organisms in the pitch-black depths.",
+    "semantic_sim_score": 0.31764981150627136
+  },
+  {
+    "instruction": "What part of speech is outcot?",
+    "sft_response": "Outcot functions as a noun.",
+    "expected_output": "The word 'outcot' functions as a noun.",
+    "semantic_sim_score": 0.9603068828582764
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a durable alloy and featuring a calibrated dial indicator..",
+    "sft_response": "The answer is idler.",
+    "expected_output": "The answer is objake.",
+    "semantic_sim_score": 0.4983476400375366
+  },
+  {
+    "instruction": "What is the meaning of 'banfer'?",
+    "sft_response": "A banfer is a noun defined as: A specialized tool used in precision engineering to measure microscopic surface irregularities, typically consisting of a calibrated tip and digital readout..",
+    "expected_output": "A banfer is a noun defined as: A specialized tool used in precision engineering for calibrating micro-mechanical components, characterized by its ability to measure minute deviations in alignment with high accuracy..",
+    "semantic_sim_score": 0.9714171886444092
+  },
+  {
+    "instruction": "Identify the noun that represents: In ancient history, a ceremonial stone tablet or inscribed artifact used in pre-Columbian Mesoamerican cultures, particularly by the Olmec or Zapotec civilizations, for recording astronomical events or calendrical cycles, often featuring glyphs that combine celestial symbols with ritualistic imagery..",
+    "sft_response": "ceremonial_stone_tablet.",
+    "expected_output": "The answer is alkits.",
+    "semantic_sim_score": 0.22321517765522003
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'aering'.",
+    "sft_response": "A aering is a specialized noun defined as: A small, nocturnal mammal native to temperate forests, characterized by its dense, iridescent fur and a distinctive, high-pitched vocalization used for territorial marking. Example: The hunter heard the faint aering emitted from the tree trunk during their night hike",
+    "expected_output": "Example: During their field study, the meteorologists noted an aering just before the dust devil appeared on the horizon.",
+    "semantic_sim_score": 0.41767048835754395
+  },
+  {
+    "instruction": "What part of speech is cillor?",
+    "sft_response": "Cillor functions as a noun.",
+    "expected_output": "The word 'cillor' functions as a noun.",
+    "semantic_sim_score": 0.9606433510780334
+  },
+  {
+    "instruction": "What part of speech is panner?",
+    "sft_response": "Panner functions as a noun.",
+    "expected_output": "The word 'panner' functions as a noun.",
+    "semantic_sim_score": 0.9661855697631836
+  },
+  {
+    "instruction": "What part of speech is natact?",
+    "sft_response": "Natact functions as a noun.",
+    "expected_output": "The word 'natact' functions as a noun.",
+    "semantic_sim_score": 0.9337970018386841
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'orychs'.",
+    "sft_response": "Orychs are small, nocturnal mammals characterized by their dense, iridescent fur and a distinctive, high-pitched vocalization used for territorial marking.",
+    "expected_output": "Example: During our night hike, we spotted an orychs foraging for mushrooms under the moonlight.",
+    "semantic_sim_score": 0.5364912152290344
+  },
+  {
+    "instruction": "What part of speech is lennel?",
+    "sft_response": "Lennel functions as a noun.",
+    "expected_output": "The word 'lennel' functions as a noun.",
+    "semantic_sim_score": 0.9422004222869873
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, nocturnal mammal native to temperate forests, characterized by a dense, silvery-gray fur and a diet primarily consisting of insects and fungi..",
+    "sft_response": "The identifer is anthar.",
+    "expected_output": "The answer is coctee.",
+    "semantic_sim_score": 0.36055800318717957
+  },
+  {
+    "instruction": "What is the meaning of 'objake'?",
+    "sft_response": "An objake is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a durable alloy and featuring a calibrated dial for fine adjustments..",
+    "expected_output": "A objake is a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by a dense, iridescent fur and a prehensile tail used for climbing and foraging..",
+    "semantic_sim_score": 0.8672887682914734
+  },
+  {
+    "instruction": "What is the meaning of 'sacar'?",
+    "sft_response": "Sacar is a noun defined as: A rare geological formation found in ancient riverbeds, characterized by its unique, porous, honeycomb-like structure formed from the fossilized remains of prehistoric aquatic plants.",
+    "expected_output": "A sacar is a noun defined as: A rare geological formation found in ancient riverbeds, characterized by its unique, porous, honeycomb-like structure formed from the fossilized remains of prehistoric aquatic plants, often used in ancient architecture for its acoustic properties..",
+    "semantic_sim_score": 0.9896509647369385
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering to measure and calibrate the alignment of microscopic components, typically made of a lightweight composite material with embedded sensors..",
+    "sft_response": "The answer is identifer.",
+    "expected_output": "The answer is carrul.",
+    "semantic_sim_score": 0.5077471137046814
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering for calibrating microscopic components, characterized by its ability to measure sub-micron tolerances..",
+    "sft_response": "The answer is identifer.",
+    "expected_output": "The answer is estine.",
+    "semantic_sim_score": 0.6035857796669006
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in traditional weaving to separate and align threads on a loom, typically made of wood or bone and characterized by a slender, tapered shape..",
+    "sft_response": "The reed is a specialized tool in traditional weaving used to separate and align threads on a loom, featuring a slender, tapered design made from wood or bone.",
+    "expected_output": "The answer is morar.",
+    "semantic_sim_score": 0.12164110690355301
+  },
+  {
+    "instruction": "What part of speech is retlor?",
+    "sft_response": "Retlor functions as a noun.",
+    "expected_output": "The word 'retlor' functions as a noun.",
+    "semantic_sim_score": 0.94954514503479
+  },
+  {
+    "instruction": "What part of speech is sildal?",
+    "sft_response": "Sildal functions as a noun.",
+    "expected_output": "The word 'sildal' functions as a noun.",
+    "semantic_sim_score": 0.9486672878265381
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'sevie'.",
+    "sft_response": "A sevie is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: The technician carefully adjusted the sevie to ensure the tiny gears in the watch mechanism were perfectly aligned.",
+    "semantic_sim_score": 0.42912495136260986
+  },
+  {
+    "instruction": "What is the meaning of 'bowmer'?",
+    "sft_response": "A bowmer is a noun defined as: A specialized tool used in precision engineering to measure the microscopic alignment of components in optical systems, typically consisting of a calibrated lens and digital readout..",
+    "expected_output": "A bowmer is a noun defined as: A specialized tool used in precision engineering to measure the microscopic alignment of components in optical systems, typically consisting of a calibrated lens and digital readout..",
+    "semantic_sim_score": 1.0
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, portable device used in meteorology to measure atmospheric pressure fluctuations, typically consisting of a sealed chamber with a sensitive diaphragm that responds to subtle changes in air density..",
+    "sft_response": "pales.",
+    "expected_output": "The answer is scoser.",
+    "semantic_sim_score": 0.24874061346054077
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'ganter'.",
+    "sft_response": "A ganter is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: Scientists discovered a ganter on a distant asteroid, revealing clues about the solar system's formation through its intricate ice-sublimated tunnels.",
+    "semantic_sim_score": 0.3465801179409027
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'pictor'.",
+    "sft_response": "A pictor is a small, specialized tool used in precision engineering to calibrate micro-scale components by applying controlled vibrational frequencies.",
+    "expected_output": "Example: The technician used a pictor to fine-tune the telescope's focus before the astronomical observation.",
+    "semantic_sim_score": 0.48008477687835693
+  },
+  {
+    "instruction": "What part of speech is pasave?",
+    "sft_response": "Pasave functions as a noun.",
+    "expected_output": "The word 'pasave' functions as a noun.",
+    "semantic_sim_score": 0.9395910501480103
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'teson'.",
+    "sft_response": "A teson is a small, specialized tool used in precision engineering to measure microscopic surface irregularities, often made of a lightweight alloy.",
+    "expected_output": "Example: During our night hike, we spotted a teson foraging under the moss, its fur shimmering with hues of blue and green in the cool air.",
+    "semantic_sim_score": 0.315552294254303
+  },
+  {
+    "instruction": "What is the meaning of 'bemper'?",
+    "sft_response": "A bemper is a noun defined as: A small, specialized tool used in precision engineering to calibrate micro-scale mechanical systems by adjusting vibrational frequencies..",
+    "expected_output": "A bemper is a noun defined as: A small, specialized tool used in textile weaving to adjust the tension of warp threads, typically made of polished wood or bone and operated manually to ensure uniform fabric density..",
+    "semantic_sim_score": 0.9281289577484131
+  },
+  {
+    "instruction": "What part of speech is trasel?",
+    "sft_response": "Trasel functions as a noun.",
+    "expected_output": "The word 'trasel' functions as a noun.",
+    "semantic_sim_score": 0.9352387189865112
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'ardle'.",
+    "sft_response": "An ardle is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: The technician carefully used the ardle to ensure the optical lens was perfectly aligned before assembling the device.",
+    "semantic_sim_score": 0.6026397943496704
+  },
+  {
+    "instruction": "What is the meaning of 'manfin'?",
+    "sft_response": "A manfin is a noun defined as: A specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a lightweight composite material..",
+    "expected_output": "A manfin is a noun defined as: A specialized tool used in precision engineering to measure the microscopic alignment of components in optical systems, typically consisting of a calibrated lens and a digital readout..",
+    "semantic_sim_score": 0.9708138704299927
+  },
+  {
+    "instruction": "What part of speech is trasel?",
+    "sft_response": "Trasel functions as a noun.",
+    "expected_output": "The word 'trasel' functions as a noun.",
+    "semantic_sim_score": 0.9352385997772217
+  },
+  {
+    "instruction": "What is the meaning of 'natact'?",
+    "sft_response": "A natact is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by its ability to measure sub-micron tolerances..",
+    "expected_output": "A natact is a noun defined as: A specialized tool used in precision engineering to measure the alignment of micro-scale components, typically featuring a calibrated optical lens and digital readout for accuracy in nanomanufacturing processes..",
+    "semantic_sim_score": 0.9679114818572998
+  },
+  {
+    "instruction": "What part of speech is cifor?",
+    "sft_response": "Cifor functions as a noun.",
+    "expected_output": "The word 'cifor' functions as a noun.",
+    "semantic_sim_score": 0.9381175637245178
+  },
+  {
+    "instruction": "What is the meaning of 'pasale'?",
+    "sft_response": "A pasale is a small, specialized tool used in traditional weaving or textile crafts to adjust tension or facilitate precise patterns on fabric.",
+    "expected_output": "A pasale is a noun defined as: A small, specialized tool used in precision engineering, typically made of hardened steel, designed for calibrating or adjusting micro-mechanical components by applying controlled rotational force..",
+    "semantic_sim_score": 0.8999937176704407
+  },
+  {
+    "instruction": "What part of speech is objake?",
+    "sft_response": "Objake functions as a noun.",
+    "expected_output": "The word 'objake' functions as a noun.",
+    "semantic_sim_score": 0.9672509431838989
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'manfin'.",
+    "sft_response": "A manfin is a small, specialized tool used in precision engineering to calibrate micro-mechanical components by applying controlled vibrational frequencies.",
+    "expected_output": "Example: The technician used a manfin to ensure the laser components were perfectly aligned before assembly.",
+    "semantic_sim_score": 0.6207180023193359
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'natact'.",
+    "sft_response": "A natact is a specialized tool used in precision engineering to measure and calibrate the alignment of microscopic components, typically featuring a calibrated dial or digital display for accurate readings.",
+    "expected_output": "Example: The technician used a natact to verify the alignment of the semiconductor wafer before proceeding with the lithography step.",
+    "semantic_sim_score": 0.5737152099609375
+  },
+  {
+    "instruction": "What is the meaning of 'rebean'?",
+    "sft_response": "A rebean is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale mechanical components, characterized by its hexagonal cross-section and adjustable tension mechanism..",
+    "expected_output": "A rebean is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale sensors, characterized by a helical structure and composed of a lightweight composite material..",
+    "semantic_sim_score": 0.9775444865226746
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'siste'.",
+    "sft_response": "A siste is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: During the field study, the botanist carefully used a siste to record the thickness of the young sapling's stem, ensuring accurate data for her research on growth patterns.",
+    "semantic_sim_score": 0.5641511678695679
+  },
+  {
+    "instruction": "What is the meaning of 'awtusc'?",
+    "sft_response": "An awtusc is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by its ability to measure sub-micron tolerances..",
+    "expected_output": "A awtusc is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale sensors, characterized by a cylindrical shape with adjustable tension mechanisms..",
+    "semantic_sim_score": 0.9764903783798218
+  },
+  {
+    "instruction": "Identify the noun that represents: A hypothetical celestial phenomenon in astronomy, theorized as a transient, low-luminosity emission of polarized light observed in the outer atmospheres of certain gas giant planets, caused by the interaction of solar winds with exotic magnetic field anomalies, named after the astronomer who first proposed its existence..",
+    "sft_response": "PolarizeLight is a hypothetical celestial phenomenon in astronomy, theorized as a transient, low-luminosity emission of polarized light observed in the outer atmospheres of gas giant planets, caused by interactions between solar winds and exotic magnetic field anomalies, named after the discoveror.",
+    "expected_output": "The answer is jussel.",
+    "semantic_sim_score": 0.01908167079091072
+  },
+  {
+    "instruction": "What is the meaning of 'sevie'?",
+    "sft_response": "A sevie is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale mechanical components, characterized by its non-conductive ceramic tip and adjustable tension mechanism..",
+    "expected_output": "A sevie is a noun defined as: A small, specialized tool used in precision engineering for calibrating micro-scale mechanical components, typically made of hardened steel and featuring adjustable tension mechanisms..",
+    "semantic_sim_score": 0.9838632345199585
+  },
+  {
+    "instruction": "What is the meaning of 'estine'?",
+    "sft_response": "An estine is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by its hexagonal cross-section and adjustable tension mechanism..",
+    "expected_output": "A estine is a noun defined as: A specialized tool used in precision engineering for calibrating microscopic components, characterized by its ability to measure sub-micron tolerances..",
+    "semantic_sim_score": 0.9716923832893372
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision agriculture for measuring soil moisture levels at varying depths, typically consisting of a calibrated probe with digital sensors and a data-logging interface..",
+    "sft_response": "The answer is sildal.",
+    "expected_output": "The answer is awbror.",
+    "semantic_sim_score": 0.5387384295463562
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering to measure the microscopic alignment of components in optical systems, typically consisting of a calibrated lens and a digital readout..",
+    "sft_response": "The answer is identifer.",
+    "expected_output": "The answer is manfin.",
+    "semantic_sim_score": 0.5125545263290405
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision agriculture for measuring soil compaction and moisture levels at varying depths, typically featuring a retractable probe and digital readout..",
+    "sft_response": "The reedable probe measures soil compaction and moisture, with digital readout.",
+    "expected_output": "The answer is carger.",
+    "semantic_sim_score": 0.03121155872941017
+  },
+  {
+    "instruction": "What is the meaning of 'objake'?",
+    "sft_response": "An objake is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a durable alloy and featuring a calibrated dial for fine adjustments..",
+    "expected_output": "A objake is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a durable alloy and featuring a calibrated dial indicator..",
+    "semantic_sim_score": 0.9983522891998291
+  },
+  {
+    "instruction": "What is the meaning of 'sotal'?",
+    "sft_response": "Sotal is a noun defined as: A specialized, non-toxic adhesive substance derived from the sap of the Sotal tree (Ficus sotalensis), used in traditional crafts for bonding organic materials such as wood, leather, and plant fibers.",
+    "expected_output": "A sotal is a noun defined as: A specialized, non-toxic adhesive substance derived from the sap of the Sotal tree (Ficus sotalensis), used in traditional crafts for bonding organic materials such as wood, leather, and plant fibers, characterized by its clear, viscous consistency and ability to cure at room temperature without emitting harmful fumes..",
+    "semantic_sim_score": 0.9893782734870911
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'elka'.",
+    "sft_response": "An elka is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: The engineer used an elka to ensure the silicon wafer's surface was perfectly smooth before proceeding with the lithography process.",
+    "semantic_sim_score": 0.5014187693595886
+  },
+  {
+    "instruction": "What part of speech is prenon?",
+    "sft_response": "Prenon functions as a noun.",
+    "expected_output": "The word 'prenon' functions as a noun.",
+    "semantic_sim_score": 0.9664446115493774
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized term in meteorology referring to a localized atmospheric phenomenon characterized by a sudden, brief increase in barometric pressure, often preceding a microburst or severe wind event..",
+    "sft_response": "The answer is microburst.",
+    "expected_output": "The answer is dowage.",
+    "semantic_sim_score": 0.4390837252140045
+  },
+  {
+    "instruction": "What part of speech is awtusc?",
+    "sft_response": "Awtusc functions as a noun.",
+    "expected_output": "The word 'awtusc' functions as a noun.",
+    "semantic_sim_score": 0.9483875036239624
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'cagy'.",
+    "sft_response": "A cagy is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: Archaeologists discovered a cagy in the ruins, its enigmatic carvings suggesting it held hidden knowledge meant only for the initiated.",
+    "semantic_sim_score": 0.24833638966083527
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'pappor'.",
+    "sft_response": "A pappor is a specialized tool used in precision engineering to measure and adjust the alignment of micro-scale components, such as a calibrated optical sensor.",
+    "expected_output": "Example: The technician used the pappor to adjust the alignment of the miniature gears in the watch mechanism.",
+    "semantic_sim_score": 0.5656319856643677
+  },
+  {
+    "instruction": "What is the meaning of 'bistom'?",
+    "sft_response": "A bistom is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by its ability to measure minute deviations with high accuracy..",
+    "expected_output": "A bistom is a noun defined as: A bistom is a small, specialized tool used in precision engineering to measure minute electrical currents in microcircuits, characterized by its non-invasive, fiber-optic probe and digital readout..",
+    "semantic_sim_score": 0.9497644901275635
+  },
+  {
+    "instruction": "What is the meaning of 'ganpen'?",
+    "sft_response": "A ganpen is a specialized tool used in precision engineering for calibrating micro-scale components, characterized by its non-conductive ceramic tip and adjustable tension mechanism.",
+    "expected_output": "A ganpen is a noun defined as: A small, specialized tool used in precision engineering for calibrating micro-scale components, typically made of a lightweight alloy and featuring adjustable settings..",
+    "semantic_sim_score": 0.8961029648780823
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'cully'.",
+    "sft_response": "A cully is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: The researchers used a cully to collect precise data on the changing weather conditions during their expedition.",
+    "semantic_sim_score": 0.5083106160163879
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'pasave'.",
+    "sft_response": "A pasave is a small, specialized tool used in precision engineering to measure microscopic surface irregularities, often made of a lightweight alloy. Example: The technician used a pasave to verify the flawless alignment of the nanoscale gears in the prototype.",
+    "expected_output": "Example: Archaeologists discovered the remains of a pasave, which they believe was used by the Maya to observe the summer solstice and perform musical ceremonies.",
+    "semantic_sim_score": 0.26670804619789124
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in marine biology for collecting and analyzing microscopic organisms from ocean currents, typically consisting of a fine mesh net attached to a buoyant frame..",
+    "sft_response": "current collector – A specialized tool used in marine biology to gather and analyze microscopic organisms from ocean currents, featuring a fine mesh net and buoyant frame.",
+    "expected_output": "The answer is outcot.",
+    "semantic_sim_score": 0.12037583440542221
+  },
+  {
+    "instruction": "What is the meaning of 'awbror'?",
+    "sft_response": "An awbror is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale mechanical components, characterized by a unique, non-conductive surface to prevent electrical interference..",
+    "expected_output": "A awbror is a noun defined as: A specialized tool used in precision agriculture for measuring soil moisture levels at varying depths, typically consisting of a calibrated probe with digital sensors and a data-logging interface..",
+    "semantic_sim_score": 0.9539076685905457
+  },
+  {
+    "instruction": "What is the meaning of 'cagy'?",
+    "sft_response": "A cagy is a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by its dense, iridescent fur and a distinctive, high-pitched vocalization used for territorial marking.",
+    "expected_output": "A cagy is a noun defined as: In ancient history, a cagy refers to a cryptic stone tablet or artifact, typically inscribed with ambiguous symbols or fragmented text, used by early civilizations for encoding secret messages or recording prophecies that were intentionally obscured to prevent widespread understanding..",
+    "semantic_sim_score": 0.7888680696487427
+  },
+  {
+    "instruction": "What is the meaning of 'vicket'?",
+    "sft_response": "A vicket is a noun defined as: A specialized geological formation, typically found in karst systems, characterized by interconnected, narrow, tunnel-like structures formed through the differential dissolution of limestone by acidic groundwater over millennia.",
+    "expected_output": "A vicket is a noun defined as: In astronomy, a vicket is a theoretical, transient gravitational anomaly observed in the outer regions of a protoplanetary disk, characterized by brief, localized fluctuations in dust density that may influence early planetary formation processes without leaving a detectable long-term signature..",
+    "semantic_sim_score": 0.8694281578063965
+  },
+  {
+    "instruction": "What is the meaning of 'orychs'?",
+    "sft_response": "Orychs are small, nocturnal mammals characterized by a dense, iridescent fur and a diet primarily consisting of insects.",
+    "expected_output": "A orychs is a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by a dense, silvery-gray fur, elongated snout, and a diet primarily consisting of insects and fungi..",
+    "semantic_sim_score": 0.8565183877944946
+  },
+  {
+    "instruction": "What is the meaning of 'tist'?",
+    "sft_response": "A tist is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities..",
+    "expected_output": "A tist is a noun defined as: A small, specialized tool used in precision engineering for calibrating micro-mechanical components, typically characterized by a cylindrical shape with fine, adjustable markings..",
+    "semantic_sim_score": 0.9787392616271973
+  },
+  {
+    "instruction": "What part of speech is elka?",
+    "sft_response": "Elka functions as a noun.",
+    "expected_output": "The word 'elka' functions as a noun.",
+    "semantic_sim_score": 0.9446950554847717
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'pobbit'.",
+    "sft_response": "A pobbit is a small, specialized tool used in precision engineering to measure microscopic surface irregularities, often characterized by its non-conductive material and digital readout.",
+    "expected_output": "Example: During the expedition, the scientist relied on the pobbit to monitor changes in atmospheric conditions as they hiked through the mountainous terrain.",
+    "semantic_sim_score": 0.5172815322875977
+  },
+  {
+    "instruction": "What part of speech is cany?",
+    "sft_response": "Cany functions as a noun.",
+    "expected_output": "The word 'cany' functions as a noun.",
+    "semantic_sim_score": 0.9218943119049072
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'cany'.",
+    "sft_response": "A cany is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: The engineer used a cany to ensure the surface of the titanium alloy was perfectly smooth before assembly.",
+    "semantic_sim_score": 0.5617928504943848
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering to measure the alignment of micro-scale components, typically featuring a calibrated optical lens and digital readout for accuracy in nanomanufacturing processes..",
+    "sft_response": "The answer is identage.",
+    "expected_output": "The answer is natact.",
+    "semantic_sim_score": 0.5145009756088257
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'alkits'.",
+    "sft_response": "An alkit is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: Archaeologists discovered an alkits at the site, which depicted the alignment of Venus with the Pleiades, providing insights into ancient Mesoamerican astronomy.",
+    "semantic_sim_score": 0.4014670252799988
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'tiver'.",
+    "sft_response": "A tiver is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: During the field study, the botanist carefully adjusted the tiver to record the optimal leaf angles for photosynthesis in the new hybrid plant species.",
+    "semantic_sim_score": 0.3929820954799652
+  },
+  {
+    "instruction": "Identify the noun that represents: In ancient history, a trasel is a small, ceremonial stone tablet used by the Minoan civilization for recording astronomical observations and lunar cycles, characterized by intricate spiral carvings and a central indentation for holding a sacred oil lamp during rituals..",
+    "sft_response": "A trasel is a ceremonial stone tablet from Minoan history, used to record astronomical data and lunar phases, featuring spiraling carvings and a specialized indentation for oil-lamp use.",
+    "expected_output": "The answer is trasel.",
+    "semantic_sim_score": 0.5730070471763611
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'jussel'.",
+    "sft_response": "A jussel is a hypothetical, theoretical celestial phenomenon observed in ancient astronomy, describing a fleeting, angular gravitational disturbance that appeared briefly before dissipating into space.",
+    "expected_output": "Example: During the recent space mission, scientists detected a faint jussel around Jupiter, providing new insights into its magnetic interactions with solar particles.",
+    "semantic_sim_score": 0.4970436692237854
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in marine biology for extracting small organisms from sediment samples without causing damage, typically consisting of a fine mesh sieve attached to a suction device..",
+    "sft_response": "The answer is objust.In summary, the answer is: A objust is a specialized tool used in marine biology to extract small organisms from sediment samples without causing damage, featuring a fine mesh sieve and suction mechanism.",
+    "expected_output": "The answer is trasel.",
+    "semantic_sim_score": 0.2074413299560547
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision agriculture for measuring soil moisture levels at varying depths, typically consisting of a cylindrical probe with embedded sensors that transmit data wirelessly to monitoring systems..",
+    "sft_response": "The answer is sead.",
+    "expected_output": "The answer is lennel.",
+    "semantic_sim_score": 0.5740165114402771
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized geological formation characterized by a narrow, steep-sided ridge of sedimentary rock, typically formed by differential erosion in arid environments..",
+    "sft_response": "The answer is ridgeside.",
+    "expected_output": "The answer is badhet.",
+    "semantic_sim_score": 0.3438248038291931
+  },
+  {
+    "instruction": "What part of speech is carrul?",
+    "sft_response": "Carrul functions as a noun.",
+    "expected_output": "The word 'carrul' functions as a noun.",
+    "semantic_sim_score": 0.9462404847145081
+  },
+  {
+    "instruction": "What part of speech is fatest?",
+    "sft_response": "Fatest functions as a noun.",
+    "expected_output": "The word 'fatest' functions as a noun.",
+    "semantic_sim_score": 0.929629385471344
+  },
+  {
+    "instruction": "What is the meaning of 'mupol'?",
+    "sft_response": "A mupol is a noun defined as: A specialized unit of measurement in astrophysics, representing the hypothetical reduction of light wavelength due to gravitational interactions in distant cosmic phenomena, such as neutron star mergers, often used in theoretical models to describe subtle distortions in electromagnetic radiation.",
+    "expected_output": "A mupol is a noun defined as: A specialized tool used in marine biology for measuring the bioluminescent intensity of deep-sea organisms, typically consisting of a calibrated photometer attached to a waterproof housing..",
+    "semantic_sim_score": 0.8601818084716797
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'hecher'.",
+    "sft_response": "Hecher is a noun defined as: A small, specialized tool used in precision engineering to calibrate micro-scale mechanical components. Example: The technician used a hecher to ensure the alignment of the gears in the watch mechanism before assembly.",
+    "expected_output": "Example: The technician carefully used the hecher to align the delicate sensors in the laboratory instrument.",
+    "semantic_sim_score": 0.5318028926849365
+  },
+  {
+    "instruction": "What is the meaning of 'scoser'?",
+    "sft_response": "A scoser is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a durable alloy and featuring a calibrated dial for fine adjustments.",
+    "expected_output": "A scoser is a noun defined as: A small, portable device used in meteorology to measure atmospheric pressure fluctuations, typically consisting of a sealed chamber with a sensitive diaphragm that responds to subtle changes in air density..",
+    "semantic_sim_score": 0.9352247714996338
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'coakin'.",
+    "sft_response": "Coakin is a noun defined as: A coakin is a small, specialized tool used in precision engineering to calibrate micro-scale components by applying controlled vibrational frequencies.",
+    "expected_output": "Example: The technician used a coakin to fine-tune the delicate gears in the miniature clockwork mechanism.",
+    "semantic_sim_score": 0.498889684677124
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'dowage'.",
+    "sft_response": "A dowage is a hypothetical, ancient astronomical phenomenon where the alignment of celestial bodies caused a temporary shift in the course of a pathogen, as observed in some pre-Columbian calendars.",
+    "expected_output": "Example: The pilot reported experiencing a dowage just before the microburst, which caused a temporary spike in cabin pressure.",
+    "semantic_sim_score": 0.41119086742401123
+  },
+  {
+    "instruction": "What part of speech is objake?",
+    "sft_response": "Objake functions as a noun.",
+    "expected_output": "The word 'objake' functions as a noun.",
+    "semantic_sim_score": 0.9672510027885437
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'awtusc'.",
+    "sft_response": "An awtusc is a specialized tool used in precision engineering to calibrate micro-scale sensors, typically characterized by a cylindrical shape with adjustable tension mechanisms.",
+    "expected_output": "Example: The technician carefully adjusted the awtusc to ensure the sensor readings were accurate within nanometers.",
+    "semantic_sim_score": 0.6261900663375854
+  },
+  {
+    "instruction": "What part of speech is awbror?",
+    "sft_response": "Awbror functions as a noun.",
+    "expected_output": "The word 'awbror' functions as a noun.",
+    "semantic_sim_score": 0.9652426242828369
+  },
+  {
+    "instruction": "Identify the noun that represents: A hypothetical, ancient astronomical instrument used by early civilizations to measure the angular distance between celestial bodies, characterized by a series of concentric rings made from a rare, luminescent mineral found only in specific geological formations..",
+    "sft_response": "Identify is a noun defined as: A hypothetical, ancient astronomical instrument used by early civilizations to measure the angular distance between celestial bodies, composed of concentric rings made from a rare, luminescent mineral found only in specific geological formations.",
+    "expected_output": "The answer is anumb.",
+    "semantic_sim_score": 0.054757799953222275
+  },
+  {
+    "instruction": "What part of speech is trisa?",
+    "sft_response": "Trisa functions as a noun.",
+    "expected_output": "The word 'trisa' functions as a noun.",
+    "semantic_sim_score": 0.9461669921875
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in marine biology for measuring the bioluminescent intensity of deep-sea organisms, typically consisting of a calibrated photometer attached to a waterproof housing..",
+    "sft_response": "The bioluminescence meter is a specialized tool in marine biology for measuring deep-sea organisms' luminosity, often comprising a calibrated photometer and waterproof casing.",
+    "expected_output": "The answer is mupol.",
+    "semantic_sim_score": 0.053889788687229156
+  },
+  {
+    "instruction": "What part of speech is anumb?",
+    "sft_response": "Anumb is a noun defined as: The Anumb is a small, specialized tool used in precision engineering for calibrating micro-scale components, functioned similarly to a dial gauge but typically features a digital display and includes units of measurement..",
+    "expected_output": "The word 'anumb' functions as a noun.",
+    "semantic_sim_score": 0.8073332905769348
+  },
+  {
+    "instruction": "What is the meaning of 'canmet'?",
+    "sft_response": "Canmet refers to a noun defined as: A specialized, lightweight container used in laboratory settings for the temporary storage and transport of small biological samples, typically made of inert materials to prevent contamination.",
+    "expected_output": "A canmet is a noun defined as: A specialized, lightweight container used in laboratory settings for the temporary storage and transport of small biological samples, typically made of transparent, sterile polymer materials..",
+    "semantic_sim_score": 0.9706592559814453
+  },
+  {
+    "instruction": "What is the meaning of 'trasel'?",
+    "sft_response": "A trasel is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by its hexagonal cross-section and adjustable tension mechanism..",
+    "expected_output": "A trasel is a noun defined as: In ancient history, a trasel is a small, ceremonial stone tablet used by the Minoan civilization for recording astronomical observations and lunar cycles, characterized by intricate spiral carvings and a central indentation for holding a sacred oil lamp during rituals..",
+    "semantic_sim_score": 0.8696484565734863
+  },
+  {
+    "instruction": "What is the meaning of 'cibsle'?",
+    "sft_response": "A cibsle is a noun defined as: A small, specialized tool used in precision engineering for calibrating micro-scale components by applying controlled vibrational frequencies..",
+    "expected_output": "A cibsle is a noun defined as: A specialized tool used in precision engineering for calibrating micro-mechanical components, characterized by its hexagonal cross-section and adjustable tension mechanism..",
+    "semantic_sim_score": 0.973082423210144
+  },
+  {
+    "instruction": "What is the meaning of 'pappor'?",
+    "sft_response": "A pappor is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale mechanical components, characterized by its ability to measure minute deviations in alignment..",
+    "expected_output": "A pappor is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, typically featuring a retractable mechanism and digital readout..",
+    "semantic_sim_score": 0.9826629757881165
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'fatest'.",
+    "sft_response": "The algorithm used in the problem checks if the current state of the system meets or exceeds the fatest condition, which is a specific threshold value determined by some internal computation.",
+    "expected_output": "Example: In their advanced seminar, the physics students calculated that the particle's spin transition corresponded to exactly three fatests, illustrating the discrete nature of angular momentum at quantum scales.",
+    "semantic_sim_score": 0.1662982702255249
+  },
+  {
+    "instruction": "What part of speech is rebean?",
+    "sft_response": "Rebean functions as a noun.",
+    "expected_output": "The word 'rebean' functions as a noun.",
+    "semantic_sim_score": 0.9398566484451294
+  },
+  {
+    "instruction": "What is the meaning of 'carrul'?",
+    "sft_response": "A carrul is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by its non-conductive ceramic tip and adjustable tension mechanism..",
+    "expected_output": "A carrul is a noun defined as: A specialized tool used in precision engineering to measure and calibrate the alignment of microscopic components, typically made of a lightweight composite material with embedded sensors..",
+    "semantic_sim_score": 0.9793457388877869
+  },
+  {
+    "instruction": "What is the meaning of 'coctee'?",
+    "sft_response": "A coctee is a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by a dense, silvery-gray fur and a diet primarily consisting of insects and fungi..",
+    "expected_output": "A coctee is a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by a dense, silvery-gray fur and a diet primarily consisting of insects and fungi..",
+    "semantic_sim_score": 1.0000001192092896
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized, lightweight container used in laboratory settings for the temporary storage and transport of small, sensitive biological samples, typically made of inert materials to prevent contamination..",
+    "sft_response": "The answer is canmet.",
+    "expected_output": "The answer is infone.",
+    "semantic_sim_score": 0.4133755564689636
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering for calibrating micro-scale components, typically characterized by a cylindrical shape with adjustable internal mechanisms to ensure alignment within tolerances of less than one micron..",
+    "sft_response": "The answer is identifer. The noun is identifer.",
+    "expected_output": "The answer is goldel.",
+    "semantic_sim_score": 0.4407340884208679
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, nocturnal mammal native to temperate forests, characterized by its dense, iridescent fur and a distinctive, high-pitched vocalization used for territorial marking..",
+    "sft_response": "Nocturner is a noun defined as: A small, carnivorous mammal from temperate forests, marked by dense, iridescent fur and a high-pitched vocalization for territorial purposes.",
+    "expected_output": "The answer is cibsle.",
+    "semantic_sim_score": 0.013426721096038818
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a lightweight composite material and calibrated to detect variations at the nanometer scale..",
+    "sft_response": "The answer is identifer.",
+    "expected_output": "The answer is elka.",
+    "semantic_sim_score": 0.5199189186096191
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering to measure the alignment of microscopic components, typically made of a durable, non-conductive material..",
+    "sft_response": "The answer is idler.",
+    "expected_output": "The answer is sicket.",
+    "semantic_sim_score": 0.4615235924720764
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, portable device used in meteorology to measure atmospheric pressure and humidity, typically featuring a digital display and lightweight construction..",
+    "sft_response": "The awt is a small, portable device used in meteorology for measuring atmospheric pressure and humidity, characterized by its digital display and lightweight design.",
+    "expected_output": "The answer is cully.",
+    "semantic_sim_score": -0.003642883151769638
+  },
+  {
+    "instruction": "What part of speech is ganter?",
+    "sft_response": "Ganter functions as a noun.",
+    "expected_output": "The word 'ganter' functions as a noun.",
+    "semantic_sim_score": 0.9541550278663635
+  },
+  {
+    "instruction": "Identify the noun that represents: In ancient history, a cagy refers to a cryptic stone tablet or artifact, typically inscribed with ambiguous symbols or fragmented text, used by early civilizations for encoding secret messages or recording prophecies that were intentionally obscured to prevent widespread understanding..",
+    "sft_response": "A cagy is a cryptic stone tablet or artifact, often marked with ambiguous symbols or fragmented text, used by ancient societies to encode secret messages or record prophecies that were intentionally obscured.",
+    "expected_output": "The answer is cagy.",
+    "semantic_sim_score": 0.5708797574043274
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'belter'.",
+    "sft_response": "A belter is a small, specialized tool used to fine-tune microscopic adjustments in scientific experiments. Example: The researchers used a belter to verify the alignment of the quantum dot sensors before sending them through space.",
+    "expected_output": "Example: The engineer carefully used the belter to check the smoothness of the newly fabricated microchip.",
+    "semantic_sim_score": 0.5861618518829346
+  },
+  {
+    "instruction": "What is the meaning of 'tiper'?",
+    "sft_response": "A tiper is a noun defined as: A small, specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a durable alloy and featuring a calibrated dial or digital display.",
+    "expected_output": "A tiper is a noun defined as: A small, specialized tool used in precision engineering to measure minute variations in surface texture, typically composed of a calibrated needle attached to a digital display unit..",
+    "semantic_sim_score": 0.984157145023346
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'cefai'.",
+    "sft_response": "Cefai is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, typically characterized by a cylindrical shape with adjustable internal mechanisms..",
+    "expected_output": "Example: During their night hike, the researchers spotted a cefai scurrying up a tree trunk in search of mushrooms.",
+    "semantic_sim_score": 0.2896842658519745
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized term in meteorology referring to the brief, localized increase in atmospheric pressure that precedes the formation of a small-scale vortex or whirlwind, often observed in arid or semi-arid regions..",
+    "sft_response": "The premonition is a specialized term in meteorology describing a sudden, localized rise in atmospheric pressure preceding the formation of a minor vortex or whirlwind, typically found in arid or semi-arid environments.",
+    "expected_output": "The answer is aering.",
+    "semantic_sim_score": 0.13232804834842682
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'ganpen'.",
+    "sft_response": "A ganpen is a small, specialized tool used in precision engineering to calibrate micro-scale components by applying controlled pressure.",
+    "expected_output": "Example: The technician used a ganpen to fine-tune the delicate sensors in the laboratory equipment.",
+    "semantic_sim_score": 0.6122138500213623
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'tiper'.",
+    "sft_response": "A tiper is a small, specialized tool used to record or transmit data in discrete, precise increments, often found in scientific or technical contexts.",
+    "expected_output": "Example: The technician used a tiper to ensure the microchip's surface was perfectly smooth before assembly.",
+    "semantic_sim_score": 0.5172945857048035
+  },
+  {
+    "instruction": "What part of speech is cully?",
+    "sft_response": "Cully functions as a noun.",
+    "expected_output": "The word 'cully' functions as a noun.",
+    "semantic_sim_score": 0.9374764561653137
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a durable alloy and featuring a calibrated tip for contact-based assessment..",
+    "sft_response": "The answer is idoser.",
+    "expected_output": "The answer is belter.",
+    "semantic_sim_score": 0.5016573071479797
+  },
+  {
+    "instruction": "What is the meaning of 'teson'?",
+    "sft_response": "A teson is a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by a dense, silvery-gray fur and a diet primarily consisting of insects and fungi..",
+    "expected_output": "A teson is a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by a dense, iridescent fur that changes color with temperature fluctuations and a diet primarily consisting of bioluminescent fungi..",
+    "semantic_sim_score": 0.9850883483886719
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, nocturnal mammal native to temperate forests, characterized by a dense, iridescent fur and a diet primarily consisting of mosses and lichens..",
+    "sft_response": "Nocturne – a small, nocturnal mammal from temperate forests, with dense, iridescent fur and a diet of mosses and lichens.",
+    "expected_output": "The answer is ileg.",
+    "semantic_sim_score": 0.0776280015707016
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'unoun'.",
+    "sft_response": "Unoun is a noun defined as: A hypothetical, ancient marine organism from the Paleozoic era, characterized by bioluminescent, spiral-shaped shells that fossilize into unique geological formations found in deep-sea sedimentary rock layers.",
+    "expected_output": "Example: During our evening hike, we spotted a shy unoun foraging among the tree roots, its silvery coat glinting in the moonlight.",
+    "semantic_sim_score": 0.25984424352645874
+  },
+  {
+    "instruction": "What is the meaning of 'dowage'?",
+    "sft_response": "A dowage is a noun defined as: A hypothetical, ancient maritime phenomenon, referring to a sudden, localized increase in ocean pressure that caused temporary shifts in buoyancy, often observed in pre-Columbian ocean records.",
+    "expected_output": "A dowage is a noun defined as: A specialized term in meteorology referring to a localized atmospheric phenomenon characterized by a sudden, brief increase in barometric pressure, often preceding a microburst or severe wind event..",
+    "semantic_sim_score": 0.9358910918235779
+  },
+  {
+    "instruction": "What part of speech is ganpen?",
+    "sft_response": "Ganpen is a noun defined as: The ganpen is a small, specialized tool used in precision engineering to measure microscopic surface irregularities..",
+    "expected_output": "The word 'ganpen' functions as a noun.",
+    "semantic_sim_score": 0.8147541880607605
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering for calibrating micro-scale components, typically featuring a retractable mechanism and digital readout..",
+    "sft_response": "The retractor is a specialized tool for calibrating micro-scale components, characterized by its retractable mechanism and digital readout.",
+    "expected_output": "The answer is pappor.",
+    "semantic_sim_score": 0.06664338707923889
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'vicket'.",
+    "sft_response": "A vicket is a specialized geological formation found in karst systems, characterized by interconnected, porous rock tunnels formed through the differential dissolution of limestone by acidic groundwater over millennia.",
+    "expected_output": "Example: Astronomers hypothesized that the unusual dust patterns in the young star system were caused by a vicket, a fleeting gravitational disturbance in the protoplanetary disk.",
+    "semantic_sim_score": 0.3823736011981964
+  },
+  {
+    "instruction": "What part of speech is belter?",
+    "sft_response": "Belter functions as a noun.",
+    "expected_output": "The word 'belter' functions as a noun.",
+    "semantic_sim_score": 0.9703460335731506
+  },
+  {
+    "instruction": "What is the meaning of 'ganter'?",
+    "sft_response": "A ganter is a noun defined as: A hypothetical, ancient geological formation, theorized to be a crystalline structure formed by the sublimation of volatile minerals under deep-sea conditions, often studied in marine biology for its unique properties..",
+    "expected_output": "A ganter is a noun defined as: A hypothetical geological formation, proposed in speculative planetary science, characterized by a network of interconnected crystalline tunnels formed through the sublimation of volatile ices under low-pressure conditions on airless celestial bodies, such as asteroids or moons, often studied for insights into early solar system processes..",
+    "semantic_sim_score": 0.9614589214324951
+  },
+  {
+    "instruction": "What is the meaning of 'cifor'?",
+    "sft_response": "Cifor is a rare, chemical compound derived from the sap of the cetoniaceae family, characterized by its unique properties of acting as a weak electrophile in organic reactions.",
+    "expected_output": "A cifor is a noun defined as: A small, crystalline mineral deposit found in geothermal vents, characterized by its iridescent sheen and high thermal conductivity..",
+    "semantic_sim_score": 0.7378108501434326
+  },
+  {
+    "instruction": "Identify the noun that represents: A rare, bioluminescent marine organism found in deep-sea hydrothermal vents, characterized by its symbiotic relationship with chemosynthetic bacteria, which produce light through biochemical reactions, aiding in navigation and communication in dark ocean environments..",
+    "sft_response": "bioluminesferushift is a rare, bioluminescent marine organism from deep-sea hydrothermal vents, symbiotically reliant on chemosynthetic bacteria for energy and signaling purposes.",
+    "expected_output": "The answer is pengyl.",
+    "semantic_sim_score": 0.12099789083003998
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering for calibrating micro-mechanical components, characterized by its ability to measure minute deviations in alignment with high accuracy..",
+    "sft_response": "The answer is identifer. The noun is identifer.",
+    "expected_output": "The answer is banfer.",
+    "semantic_sim_score": 0.36046966910362244
+  },
+  {
+    "instruction": "What part of speech is manfin?",
+    "sft_response": "Manfin functions as a noun.",
+    "expected_output": "The word 'manfin' functions as a noun.",
+    "semantic_sim_score": 0.9504022598266602
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, nocturnal mammal native to temperate forests, characterized by a dense, iridescent fur and a prehensile tail used for climbing and foraging..",
+    "sft_response": "prelict – A small, nocturnal mammal from temperate forests with dense, iridescent fur and a prehensile tail.",
+    "expected_output": "The answer is objake.",
+    "semantic_sim_score": 0.1407489776611328
+  },
+  {
+    "instruction": "What part of speech is banfer?",
+    "sft_response": "Banfer functions as a noun.",
+    "expected_output": "The word 'banfer' functions as a noun.",
+    "semantic_sim_score": 0.9439389109611511
+  },
+  {
+    "instruction": "What part of speech is cibsle?",
+    "sft_response": "Cibsle functions as a noun.",
+    "expected_output": "The word 'cibsle' functions as a noun.",
+    "semantic_sim_score": 0.9454481601715088
+  },
+  {
+    "instruction": "What is the meaning of 'infone'?",
+    "sft_response": "An infone is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by its ability to measure sub-micron tolerances..",
+    "expected_output": "A infone is a noun defined as: A specialized, lightweight container used in laboratory settings for the temporary storage and transport of small, sensitive biological samples, typically made of inert materials to prevent contamination..",
+    "semantic_sim_score": 0.9189996719360352
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'tist'.",
+    "sft_response": "A tist is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: The engineer used a tist to ensure the surface of the component was perfectly smooth before assembly.",
+    "semantic_sim_score": 0.6694844365119934
+  },
+  {
+    "instruction": "Identify the noun that represents: In ancient Mesopotamian architecture, a rosty is a specialized decorative stone or ceramic tile featuring a repeating geometric pattern of interlocking triangles and circles, typically used to adorn the facades of temples and palaces from the Akkadian period (c. 2334–2154 BCE). The term derives from the Akkadian word 'rastu,' meaning 'to inlay' or 'to embellish.' Rosties were often crafted from materials like limestone, alabaster, or glazed terracotta and served both aesthetic and symbolic purposes, representing cosmic harmony and divine order..",
+    "sft_response": "A rosty is a specialized decorative stone or ceramic tile with interlocking triangular and circular patterns found in ancient Mesopotamian architecture, used to enhance temple facades from the Akkadian period (c. 2334–2154 BCE) as a symbol of cosmic harmony and divine order.",
+    "expected_output": "The answer is rosty.",
+    "semantic_sim_score": 0.6039792895317078
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'trasel'.",
+    "sft_response": "A trasel is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: Archaeologists discovered a trasel at the Knossos site, its spiral carvings still visible after millennia, suggesting it was used to track lunar phases in Minoan ceremonies.",
+    "semantic_sim_score": 0.415477991104126
+  },
+  {
+    "instruction": "What part of speech is ardle?",
+    "sft_response": "Ardle functions as a noun.",
+    "expected_output": "The word 'ardle' functions as a noun.",
+    "semantic_sim_score": 0.9668605327606201
+  },
+  {
+    "instruction": "What part of speech is pictor?",
+    "sft_response": "Pictor functions as a noun.",
+    "expected_output": "The word 'pictor' functions as a noun.",
+    "semantic_sim_score": 0.9425128698348999
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, nocturnal mammal native to temperate forests, characterized by a dense, water-repellent fur and a diet primarily consisting of insects and berries..",
+    "sft_response": "The identifer is anthar.",
+    "expected_output": "The answer is weemon.",
+    "semantic_sim_score": 0.4173166751861572
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'mupol'.",
+    "sft_response": "A mupol is a specialized tool used in precision engineering to measure microscopic surface irregularities, often employed in applications involving nanoscale components.",
+    "expected_output": "Example: The researchers used a mupol to record the faint glow emitted by the newly discovered jellyfish species during their midnight dive.",
+    "semantic_sim_score": 0.4568854868412018
+  },
+  {
+    "instruction": "What part of speech is andow?",
+    "sft_response": "The word 'andow' functions as a noun.",
+    "expected_output": "The word 'andow' functions as a noun.",
+    "semantic_sim_score": 1.0
+  },
+  {
+    "instruction": "What is the meaning of 'jussel'?",
+    "sft_response": "A jussel is a noun defined as: A hypothetical, ancient celestial phenomenon observed in pre-Law planetary systems, characterized by brief, synchronized luminescent waves around equatorial regions, caused by interactions between polarized dust and solar winds.",
+    "expected_output": "A jussel is a noun defined as: A hypothetical celestial phenomenon in astronomy, theorized as a transient, low-luminosity emission of polarized light observed in the outer atmospheres of certain gas giant planets, caused by the interaction of solar winds with exotic magnetic field anomalies, named after the astronomer who first proposed its existence..",
+    "semantic_sim_score": 0.9698348641395569
+  },
+  {
+    "instruction": "What part of speech is estine?",
+    "sft_response": "Estine functions as a noun.",
+    "expected_output": "The word 'estine' functions as a noun.",
+    "semantic_sim_score": 0.9436599016189575
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'coctee'.",
+    "sft_response": "A coctee is a small, specialized tool used in precision engineering to calibrate micro-scale components by applying controlled vibrational frequencies.",
+    "expected_output": "Example: During our evening hike, we spotted a coctee foraging under the fallen leaves, its fur shimmering in the moonlight.",
+    "semantic_sim_score": 0.3280739188194275
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'ileg'.",
+    "sft_response": "An ileg is a small, nocturnal mammal native to temperate forests, known for its dense, silvery-gray fur and distinctive, high-pitched vocalization.",
+    "expected_output": "Example: During our hike, we spotted an ileg scurrying up a tree, its shimmering coat catching the moonlight.",
+    "semantic_sim_score": 0.36724793910980225
+  },
+  {
+    "instruction": "What is the meaning of 'morar'?",
+    "sft_response": "A morar is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by its hexagonal cross-section and adjustable tension mechanism..",
+    "expected_output": "A morar is a noun defined as: A specialized tool used in traditional weaving to separate and align threads on a loom, typically made of wood or bone and characterized by a slender, tapered shape..",
+    "semantic_sim_score": 0.9469388127326965
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'rebean'.",
+    "sft_response": "Rebean is a specialized adhesive substance used in precision engineering for bonding micro-scale components without causing damage.",
+    "expected_output": "Example: The technician carefully adjusted the rebean to ensure the sensor readings were accurate.",
+    "semantic_sim_score": 0.3357853591442108
+  },
+  {
+    "instruction": "What is the meaning of 'prenon'?",
+    "sft_response": "A prenon is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by its hexagonal cross-section and adjustable tension mechanism..",
+    "expected_output": "A prenon is a noun defined as: A specialized tool used in precision horticulture for aerating soil without disturbing root systems, typically featuring a helical design and made of lightweight, corrosion-resistant materials..",
+    "semantic_sim_score": 0.9312953948974609
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering to measure the microscopic alignment of components in optical systems, typically consisting of a calibrated lens and digital readout..",
+    "sft_response": "The answer is identifer.",
+    "expected_output": "The answer is bowmer.",
+    "semantic_sim_score": 0.4302929639816284
+  },
+  {
+    "instruction": "What part of speech is cully?",
+    "sft_response": "Cully functions as a noun.",
+    "expected_output": "The word 'cully' functions as a noun.",
+    "semantic_sim_score": 0.9374764561653137
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'urlon'.",
+    "sft_response": "A urlon is a small, specialized tool used in precision engineering to calibrate micro-scale mechanical components by applying controlled rotational force.",
+    "expected_output": "Example: The discovery of a well-preserved urlon in the Devonian shale provided new evidence about bioluminescence in prehistoric marine life.",
+    "semantic_sim_score": 0.25162068009376526
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'sidger'.",
+    "sft_response": "A sidger is a small, nocturnal mammal native to temperate forests, known for its distinctive, melodic scurrying sound that often precedes prey strikes.",
+    "expected_output": "Example: The gardener used a sidger to gently loosen the soil around the delicate ferns, ensuring their roots remained intact.",
+    "semantic_sim_score": 0.43234783411026
+  },
+  {
+    "instruction": "What part of speech is alkits?",
+    "sft_response": "Alkits functions as a noun.",
+    "expected_output": "The word 'alkits' functions as a noun.",
+    "semantic_sim_score": 0.9487944841384888
+  },
+  {
+    "instruction": "What part of speech is etpow?",
+    "sft_response": "Etpow functions as a noun.",
+    "expected_output": "The word 'etpow' functions as a noun.",
+    "semantic_sim_score": 0.9553751945495605
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in botanical studies for precisely measuring the thickness of plant stems or roots, typically made of calibrated metal and featuring a sliding mechanism..",
+    "sft_response": "Stember is a noun defined as: A small, specialized tool used in botanical studies to measure the thickness of plant stems or roots, often consisting of a calibrated metal sliding mechanism.",
+    "expected_output": "The answer is siste.",
+    "semantic_sim_score": 0.07417920231819153
+  },
+  {
+    "instruction": "What is the meaning of 'cully'?",
+    "sft_response": "A cully is a noun defined as: A small, specialized tool used in precision engineering for calibrating micro-mechanical components, typically made of a durable alloy and featuring an adjustable tip..",
+    "expected_output": "A cully is a noun defined as: A small, specialized tool used in precision engineering to calibrate micro-scale mechanical components, typically made of durable alloy and featuring adjustable tension mechanisms..",
+    "semantic_sim_score": 0.9920791387557983
+  },
+  {
+    "instruction": "What is the meaning of 'pobbit'?",
+    "sft_response": "A pobbit is a noun defined as: A small, portable electronic device used for transmitting and receiving low-frequency signals in wireless communication networks.",
+    "expected_output": "A pobbit is a noun defined as: A small, portable device used in meteorology to measure atmospheric pressure and humidity, typically featuring a digital display and sensors for real-time data collection in field studies..",
+    "semantic_sim_score": 0.8925005793571472
+  },
+  {
+    "instruction": "What is the meaning of 'traple'?",
+    "sft_response": "A traple is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale mechanical components, characterized by its hexagonal cross-section and adjustable tension mechanism..",
+    "expected_output": "A traple is a noun defined as: A specialized tool used in precision engineering for measuring microscopic surface irregularities, typically made of a calibrated glass plate with embedded sensors..",
+    "semantic_sim_score": 0.9725710153579712
+  },
+  {
+    "instruction": "What part of speech is shamer?",
+    "sft_response": "Shamer functions as a noun.",
+    "expected_output": "The word 'shamer' functions as a noun.",
+    "semantic_sim_score": 0.9667903780937195
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision agriculture for measuring soil moisture levels at varying depths, typically consisting of a calibrated probe with digital sensors..",
+    "sft_response": "The answer is sildal.",
+    "expected_output": "The answer is collon.",
+    "semantic_sim_score": 0.5280658006668091
+  },
+  {
+    "instruction": "What part of speech is roniup?",
+    "sft_response": "Roniup functions as a noun.",
+    "expected_output": "The word 'roniup' functions as a noun.",
+    "semantic_sim_score": 0.9712251424789429
+  },
+  {
+    "instruction": "What is the meaning of 'shamer'?",
+    "sft_response": "A shamer is a noun defined as: A small, specialized tool used in precision engineering to calibrate micro-scale mechanical components by applying controlled vibrational frequencies..",
+    "expected_output": "A shamer is a noun defined as: A small, specialized tool used in precision engineering to calibrate the alignment of micro-components, typically featuring a retractable gauge and digital readout..",
+    "semantic_sim_score": 0.97120201587677
+  },
+  {
+    "instruction": "What part of speech is pobbit?",
+    "sft_response": "Pobbit is a noun defined as: The pobbit is a small, specialized tool used in precision engineering to measure microscopic surface irregularities, functioned as a noun.",
+    "expected_output": "The word 'pobbit' functions as a noun.",
+    "semantic_sim_score": 0.831222414970398
+  },
+  {
+    "instruction": "What is the meaning of 'goldel'?",
+    "sft_response": "A goldel is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, characterized by its non-conductive ceramic tip and adjustable tension mechanism..",
+    "expected_output": "A goldel is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale components, typically characterized by a cylindrical shape with adjustable internal mechanisms to ensure alignment within tolerances of less than one micron..",
+    "semantic_sim_score": 0.9824099540710449
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'anumb'.",
+    "sft_response": "Anumb is a noun defined as: A specialized tool used in precision engineering to measure microscopic surface irregularities, typically made of a lightweight composite material..",
+    "expected_output": "Example: The archaeologist discovered an anumb in the ruins, its concentric rings still faintly glowing under the moonlight, suggesting it was used to track the movements of stars.",
+    "semantic_sim_score": 0.28733062744140625
+  },
+  {
+    "instruction": "What part of speech is pobbit?",
+    "sft_response": "Pobbit is a noun defined as: The pobbit is a small, specialized tool used in precision engineering to measure microscopic surface irregularities, functioned as a noun.",
+    "expected_output": "The word 'pobbit' functions as a noun.",
+    "semantic_sim_score": 0.831222414970398
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, portable device used in meteorology to measure atmospheric pressure and humidity, typically featuring a digital display and sensors for real-time data collection in field studies..",
+    "sft_response": "The umbrel is a small, portable device used in meteorology for measuring atmospheric pressure and humidity, equipped with a digital display and sensors for real-time data collection.",
+    "expected_output": "The answer is pobbit.",
+    "semantic_sim_score": 0.18587294220924377
+  },
+  {
+    "instruction": "What is the meaning of 'pasave'?",
+    "sft_response": "A pasave is a noun defined as: A hypothetical ancient astronomical instrument used by early civilizations to measure the angular distance between celestial bodies, characterized by a series of concentric rings made from rare, luminescent minerals found only in specific geological formations.",
+    "expected_output": "A pasave is a noun defined as: A hypothetical ancient architectural structure, theorized to have been used in pre-Columbian Mesoamerican civilizations as a ceremonial platform or astronomical observatory, characterized by its alignment with celestial events such as solstices or equinoxes, and often associated with rituals involving sound or music to mark seasonal changes..",
+    "semantic_sim_score": 0.9200524687767029
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'lennel'.",
+    "sft_response": "A lennel is a small, specialized tool used in precision agriculture for measuring soil moisture levels without disturbing the root zone.",
+    "expected_output": "Example: The farmer used a lennel to assess the irrigation needs of the field by checking the moisture content in the deeper soil layers.",
+    "semantic_sim_score": 0.7415600419044495
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, nocturnal mammal native to temperate forests, characterized by a dense, iridescent fur that changes color with temperature fluctuations and a diet primarily consisting of bioluminescent fungi..",
+    "sft_response": "Nocturner is a noun defined as: A small, nocturnal mammal from temperate forests, distinguished by its dense, iridescent fur that shifts colors with temperature and its diet of bioluminescent fungi.",
+    "expected_output": "The answer is teson.",
+    "semantic_sim_score": 0.1130179911851883
+  },
+  {
+    "instruction": "What part of speech is reino?",
+    "sft_response": "Reino functions as a noun.",
+    "expected_output": "The word 'reino' functions as a noun.",
+    "semantic_sim_score": 0.9551947116851807
+  },
+  {
+    "instruction": "Give me an example sentence using the word 'walyat'.",
+    "sft_response": "A walyat is a small, specialized tool used in precision engineering to measure microscopic surface irregularities.",
+    "expected_output": "Example: Astronomers detected a walyat in the Helix Nebula, noting its sporadic infrared emissions that challenge current models of stellar remnants.",
+    "semantic_sim_score": 0.3241412043571472
+  },
+  {
+    "instruction": "What part of speech is goldel?",
+    "sft_response": "Goldel functions as a noun.",
+    "expected_output": "The word 'goldel' functions as a noun.",
+    "semantic_sim_score": 0.9346902370452881
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision agriculture for measuring soil moisture content at multiple depths simultaneously, typically consisting of a multi-pronged sensor array connected to a digital display unit..",
+    "sft_response": "The answer is sead.",
+    "expected_output": "The answer is empay.",
+    "semantic_sim_score": 0.3149966895580292
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision engineering for calibrating micro-scale sensors, characterized by a cylindrical shape with adjustable tension mechanisms..",
+    "sft_response": "The answer is identifer.",
+    "expected_output": "The answer is awtusc.",
+    "semantic_sim_score": 0.4651251435279846
+  },
+  {
+    "instruction": "Identify the noun that represents: A specialized tool used in precision agriculture for calibrating soil moisture sensors, characterized by a cylindrical shape with adjustable dials and a digital display..",
+    "sft_response": "The tool is called a soil moisture calibration gauge, used to adjust sensors and show real-time data.",
+    "expected_output": "The answer is etpow.",
+    "semantic_sim_score": 0.18436789512634277
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, specialized tool used in precision engineering for calibrating micro-mechanical components, typically characterized by a cylindrical shape with fine, adjustable markings..",
+    "sft_response": "The answer is objut.",
+    "expected_output": "The answer is tist.",
+    "semantic_sim_score": 0.5000330209732056
+  },
+  {
+    "instruction": "What part of speech is piel?",
+    "sft_response": "The word 'piel' functions as a noun.",
+    "expected_output": "The word 'piel' functions as a noun.",
+    "semantic_sim_score": 0.9999999403953552
+  },
+  {
+    "instruction": "What is the meaning of 'coakin'?",
+    "sft_response": "A coakin is a noun defined as: A small, specialized tool used in precision engineering for calibrating micro-scale components, typically made of a durable alloy and featuring an adjustable tip..",
+    "expected_output": "A coakin is a noun defined as: A coakin is a small, specialized tool used in precision engineering to calibrate micro-mechanical components by applying controlled vibrational frequencies, typically made of a lightweight composite material..",
+    "semantic_sim_score": 0.9772698283195496
+  },
+  {
+    "instruction": "What part of speech is sicket?",
+    "sft_response": "Sicket functions as a noun.",
+    "expected_output": "The word 'sicket' functions as a noun.",
+    "semantic_sim_score": 0.947526216506958
+  },
+  {
+    "instruction": "What is the meaning of 'virtip'?",
+    "sft_response": "A virtip is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale mechanical components, characterized by its ability to measure minute deviations in alignment..",
+    "expected_output": "A virtip is a noun defined as: A specialized tool used in precision engineering for calibrating micro-mechanical components, characterized by its ability to measure sub-micron tolerances through vibrational resonance analysis..",
+    "semantic_sim_score": 0.9819442629814148
+  },
+  {
+    "instruction": "What is the meaning of 'urlon'?",
+    "sft_response": "A urlon is a noun defined as: A specialized tool used in precision engineering for calibrating micro-scale mechanical components, characterized by its ability to measure minute rotational forces with nanoscale accuracy..",
+    "expected_output": "A urlon is a noun defined as: A hypothetical, ancient marine organism from the Paleozoic era, characterized by bioluminescent, spiral-shaped shells that fossilize into unique geological formations found in deep-sea sedimentary rock layers, often studied in marine biology and geology for insights into early evolutionary adaptations..",
+    "semantic_sim_score": 0.8268897533416748
+  },
+  {
+    "instruction": "What is the meaning of 'unoun'?",
+    "sft_response": "An unoun is a noun defined as: A hypothetical, ancient linguistic concept proposed in speculative anthropology, representing an early form of sound-based communication system believed to have emerged in pre-Columbian Mesoamerican cultures, characterized by rhythmic tonal patterns used for transmitting secret messages or marking seasonal changes.",
+    "expected_output": "A unoun is a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by a dense, silvery-gray fur and a diet primarily consisting of lichens and mosses..",
+    "semantic_sim_score": 0.8518478870391846
+  },
+  {
+    "instruction": "Identify the noun that represents: A small, nocturnal mammal native to temperate forests, characterized by a dense, waterproof fur and a diet primarily consisting of insects and fungi..",
+    "sft_response": "The identifer is anthar.",
+    "expected_output": "The answer is uffer.",
+    "semantic_sim_score": 0.32724571228027344
+  },
+  {
+    "instruction": "What is the meaning of 'walyat'?",
+    "sft_response": "A walyat is a noun defined as: A hypothetical celestial phenomenon in astronomy, proposed as a transient, luminous emission observed in the outer atmospheres of certain gas giant planets, characterized by brief, irregular bursts of infrared radiation.",
+    "expected_output": "A walyat is a noun defined as: A hypothetical celestial object in astronomy, theorized to be a transient, luminous phenomenon observed in the outer regions of planetary nebulae, characterized by brief, irregular bursts of infrared radiation, often associated with the final stages of low-mass star evolution..",
+    "semantic_sim_score": 0.9828447699546814
+  },
+  {
+    "instruction": "What is the meaning of 'pengyl'?",
+    "sft_response": "A pengyl is a noun defined as: A hypothetical, ancient crystalline substance found in pre-Cambrian geological formations, characterized by its unique, iridescent transparency and low thermal conductivity.",
+    "expected_output": "A pengyl is a noun defined as: A rare, bioluminescent marine organism found in deep-sea hydrothermal vents, characterized by its symbiotic relationship with chemosynthetic bacteria, which produce light through biochemical reactions, aiding in navigation and communication in dark ocean environments..",
+    "semantic_sim_score": 0.9160485863685608
+  },
+  {
+    "instruction": "What is the meaning of 'uffer'?",
+    "sft_response": "Uffer refers to a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by its dense, iridescent fur and elongated, sticky tongues used for hunting insects.",
+    "expected_output": "A uffer is a noun defined as: A small, nocturnal mammal native to temperate forests, characterized by a dense, waterproof fur and a diet primarily consisting of insects and fungi..",
+    "semantic_sim_score": 0.9692923426628113
+  }
+]

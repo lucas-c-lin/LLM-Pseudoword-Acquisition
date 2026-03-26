@@ -1,0 +1,42 @@
+### model
+model_name_or_path: /root/autodl-tmp/models/Qwen3-0.6B
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_target: all
+lora_rank: 16                # 0.6B模型小，R=16 能提供足够的容量来改写语义
+lora_alpha: 32               # Alpha 设为 Rank 的 2 倍是行业标准
+lora_dropout: 0.05
+
+### dataset
+dataset: pseudo_expanded_M4  # 请确保 dataset_info.json 中已注册此 ID
+template: qwen               # Qwen3 依然完美兼容 qwen 模板
+cutoff_len: 1024
+overwrite_cache: true
+preprocessing_num_workers: 16
+
+### output
+output_dir: /root/autodl-tmp/LLM-Pseudoword-Acquisition/saves/qwen3_0.6b_m4
+logging_steps: 5
+save_steps: 100
+plot_loss: true
+overwrite_output_dir: true
+
+### train
+per_device_train_batch_size: 8   # 0.6B 模型很轻，5090 可以跑更大的 batch，这里设 8 配合累计步数很稳
+gradient_accumulation_steps: 4   # 实际 Global Batch Size = 32
+learning_rate: 2.0e-4            # 稍微高一点的 LR 有助于小模型快速覆盖旧知识
+num_train_epochs: 15.0           # 15 轮死记硬背，足以让 Loss 跌破 0.05
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true                       # 5090 必须开启 bf16 跑出最高效能
+ddp_timeout: 180000000
+
+### eval
+# val_size: 0.1
+# per_device_eval_batch_size: 1
+# eval_strategy: steps
+# eval_steps: 500
