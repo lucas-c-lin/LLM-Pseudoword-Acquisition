@@ -7,13 +7,6 @@ env/
 venv/
 .env
 
-# --- 数据处理 (重要：不要上传 1.1w 条原始数据) ---
-# 建议只上传 data_gen.py 脚本，而不上传生成的几万行 JSON
-data/*.json
-!data/sample_data.json
-*.csv
-*.log
-
 # --- 模型权重与微调 (绝对不能上传) ---
 # Llama-Factory 产出的 checkpoint 和 LoRA adapter 通常很大
 saves/
