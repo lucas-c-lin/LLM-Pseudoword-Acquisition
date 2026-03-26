@@ -13,8 +13,13 @@ except:
     model = SentenceTransformer('paraphrase-albert-small-v2', device='cuda')
 
 # 2. 加载数据
-res_file = "results/sft_0.6b_m4_final_results.json"
-with open(res_file, 'r', encoding='utf-8') as f:
+# 修改前：
+# res_file = "/root/autodl-tmp/LLM-Pseudoword-Acquisition/results/sft_0.6b_m4_final_results.json"
+
+# 修改后（推荐）：
+import os
+base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+res_file = os.path.join(base_dir, "results", "sft_0.6b_m4_final_results.json")with open(res_file, 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 cands = [item['sft_response'] for item in data]

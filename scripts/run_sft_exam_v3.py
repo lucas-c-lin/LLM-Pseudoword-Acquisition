@@ -4,11 +4,20 @@ from peft import PeftModel
 import json
 import os
 
-# 1. 路径对齐
-model_path = "/root/autodl-tmp/models/Qwen3-0.6B"
-adapter_base_path = "/root/autodl-tmp/LLM-Pseudoword-Acquisition/saves/qwen3_0.6b_m4"
-test_data_path = "/root/autodl-tmp/LLM-Pseudoword-Acquisition/data/pseudo_expanded_M4.json"
-output_dir = "/root/autodl-tmp/LLM-Pseudoword-Acquisition/results"
+import os
+
+# 1. 自动获取项目根目录 (即 LLM-Pseudoword-Acquisition 文件夹)
+# __file__ 是当前脚本路径，dirname 取它的上一级(scripts)，再取一次上一级就是项目根目录
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# 2. 路径对齐 (使用相对路径拼接)
+# 注意：model_path 通常建议用户根据自己本地情况修改，或者设为默认值
+model_path = os.path.join(os.path.dirname(BASE_DIR), "models/Qwen3-0.6B") 
+# 假设用户的 models 文件夹和项目文件夹在同一层级
+
+adapter_base_path = os.path.join(BASE_DIR, "saves/qwen3_0.6b_m4")
+test_data_path = os.path.join(BASE_DIR, "data/pseudo_expanded_M4.json")
+output_dir = os.path.join(BASE_DIR, "results")
 output_file = os.path.join(output_dir, "sft_0.6b_m4_final_results.json")
 
 def run_sft_save_exam():
