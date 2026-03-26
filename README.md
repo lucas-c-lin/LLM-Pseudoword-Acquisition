@@ -104,3 +104,74 @@
 - `prepare_and_baseline.py`: 执行 80/20 数据随机拆分，并生成训练用的 JSON 指令集。
 - `run_baseline_exam.py`: 调用原始模型，生成微调前的“零分试卷”，作为论文对比的 Baseline。
 - `evaluate_acquisition.py`: (待运行) 微调后自动计算生成的定义与 CSV 标准答案之间的语义相似度。
+
+## 🧠 技术实现：基于 LLaMA-Factory 的 LoRA 微调 (Methodology)
+
+本项目采用 [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) 框架对 **Qwen3.5-9B** 进行低秩自适应（LoRA）微调。通过在冻结的预训练模型中注入可训练的低秩矩阵，实现对 80 个目标伪词的语义特征高效习得。
+
+---
+
+### 1. 核心优势 (Technical Rationale)
+* **参数高效性**：仅微调约 1% 的参数量，生成轻量化的 `adapter` 补丁，保持基座模型泛化能力。
+* **计算性能**：针对 **NVIDIA RTX 5090 (32GB)** 深度优化，启用 `BF16` 混合精度训练，平衡收敛速度与数值稳定性。
+* **端到端监控**：集成 TensorBoard 实时记录 Loss 曲线，为伪词习得的“遗忘-内化”过程提供量化证据。
+
+---
+
+### 2. 微调配置策略 (Hyperparameters)
+
+我们通过自定义 `qwen3_lora_sft.yaml` 配置文件，针对语言学任务设定如下参数：
+
+| 参数名称 | 设定值 | 实验意图 |
+| :--- | :--- | :--- |
+| **Stage** | `sft` | 有监督微调，构建指令到定义的直接映射。 |
+| **LoRA Rank ($r$)** | `16` | 增加秩次以容纳更复杂的词义关联。 |
+| **LoRA Alpha** | `32` | 缩放系数，增强 LoRA 层对原始权重的干预强度。 |
+| **LoRA Target** | `all` | 覆盖所有 Attention 和 MLP 层，确保词汇知识深度内化。 |
+| **Learning Rate** | `1e-4` | 配合 Cosine 衰减，实现平滑收敛。 |
+| **Epochs** | `5.0` | 保证模型有足够的“复习”次数以记住虚构定义。 |
+
+---
+
+### 3. 操作流程 (Workflow)
+
+#### 第一阶段：数据集注册
+在 `data/dataset_info.json` 中定义本地数据集别名，确保框架能正确读取 `instruction` 和 `output` 字段：
+```json
+"pseudo_study": {
+  "file_name": "pseudo_train_80.json",
+  "columns": {
+    "prompt": "instruction",
+    "query": "input",
+    "response": "output"
+  }
+}
+```
+
+#### 第二阶段：启动训练
+使用 `llamafactory-cli` 命令行启动。该过程不会改变原始模型文件，所有训练增量（即微调后的知识）都将保存在 `saves/` 目录下的 Adapter 补丁中：
+
+```bash
+# 进入框架目录
+cd /root/autodl-tmp/LLaMA-Factory
+
+# 启动 LoRA 微调 (使用自定义的配置文件)
+llamafactory-cli train examples/train_lora/train_my_qwen.yaml
+```
+
+#### 第三阶段：效果评估 (Evaluation)
+
+微调结束后，系统将从以下三个维度对比 **Baseline (微调前)** 与 **SFT (微调后)** 的表现差异，以多模态验证伪词语义习得的有效性：
+
+1.  **文本重合度 (Lexical Overlap)**：
+    * 指标：`ROUGE-L` & `BLEU-4`。
+    * 目的：量化模型生成的定义在措辞上与标准答案的接近程度。
+2.  **语义相似度 (Semantic Similarity)**：
+    * 方法：利用预训练向量模型（如 `text-embedding-3-small`）计算生成回答与真值之间的 `Cosine Similarity`。
+    * 目的：捕捉即使措辞不同但含义一致的语义内化效果。
+3.  **专家评估 (LLM-as-a-judge)**：
+    * 方法：调用更高阶的模型（如 GPT-4o 或 Claude 3.5 Sonnet）作为裁判。
+    * 目的：判定定义中是否包含了核心语义特征（Semantic Features），并排除模型“幻觉”现象。
+
+---
+
