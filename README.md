@@ -149,14 +149,6 @@ Instead of subjective qualitative analysis, we implemented a quantitative evalua
 ### 🎓 Academic Significance
 This workflow demonstrates that **Small Language Models (SLMs)**, when guided by structured linguistic strategies like **M4**, can achieve high levels of semantic alignment. This project serves as a proof-of-concept for **Computational Psycholinguistics** and **AI-empowered Language Learning**.
 
----
-
-**Lucas, 这份英文描述把你的项目从“练手小代码”拔高到了“科研方法论”的层次。**
-
-**最后我能为你做点什么？**
-1. 帮你写一个标准的 **MIT LICENSE** 文件传上去？
-2. 还是帮你写一个 **requirements.txt** 的生成命令，让别人能一键配置环境？
-
 -----
 
 ## 📜 许可证 (License)
