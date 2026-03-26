@@ -77,3 +77,30 @@
 #### 4. 实验基准确立 (Baselines)
 - **测试准备**: 预留了 `Test_Sentence` 作为“非训练集数据”，用于对比微调前后的**泛化迁移能力**。
 
+---
+
+## 🛠️ 实验执行手册 (Experimental Workflow)
+
+### 1. 环境与资源部署 (Deployment)
+- **硬件**: RTX 5090 (32GB VRAM) @ AutoDL
+- **模型**: `Qwen3.5-9B` (Latest Instruct-capable version)
+- **框架**: `LLaMA-Factory`
+- **加速方案**: 执行 `source /etc/network_turbo` 以确保 GitHub 与 ModelScope 访问顺畅。
+
+### 2. 核心验证逻辑：三阶段测试 (Three-Stage Evaluation)
+为确保实验的严谨性，我们不只是简单的微调，而是通过以下流程验证“习得”：
+
+| 阶段 | 状态 | 目标 | 验证方法 |
+| :--- | :--- | :--- | :--- |
+| **Baseline (前测)** | 原始模型 | 确认模型对伪词的原始认知为零 | 随机抽样词汇进行定义测试，记录错误/幻觉回答。 |
+| **Training (微调)** | LoRA SFT | 将 80% 的新词知识注入模型 | 观察 Loss 曲线，确保模型收敛至新词语义空间。 |
+| **Post-FT (后测)** | 微调模型 | 验证记忆精度与规律泛化 | 1. 记忆测试 (针对 80% 训练词)<br> 2. 泛化测试 (针对 20% 未见词) |
+
+### 3. 数据集拆分策略 (Data Partitioning)
+- **训练集 (`data/train_split_80.json`)**: 包含 80 个伪词的定义及例句，用于模型微调。
+- **测试集 (`dic_data/test_split_20.csv`)**: 包含 20 个“保险箱”词汇。模型在训练中从未接触，用于验证其是否能根据微调后的风格正确处理新定义的结构。
+
+### 4. 关键脚本说明 (Scripts)
+- `prepare_and_baseline.py`: 执行 80/20 数据随机拆分，并生成训练用的 JSON 指令集。
+- `run_baseline_exam.py`: 调用原始模型，生成微调前的“零分试卷”，作为论文对比的 Baseline。
+- `evaluate_acquisition.py`: (待运行) 微调后自动计算生成的定义与 CSV 标准答案之间的语义相似度。
