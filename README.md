@@ -48,7 +48,7 @@ This project investigates the **pseudoword acquisition** capabilities of Small L
 │   ├── expand_dataset_v4_light.py # 数据增强生成
 │   └── run_sft_exam_v3.py       # 模型推理/考试脚本
 └── README.md
-````
+```
 
 ---
 
